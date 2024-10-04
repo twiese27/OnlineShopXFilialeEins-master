@@ -1,0 +1,10 @@
+PRODUCT_CATEGORY_ID;NAME;PARENT_CATEGORY
+175;Construction;37
+176;Drilling Machines;127
+177;Construction Materials;175
+178;Metal;177
+179;Stone;177
+180;Woods;177
+181;Tablets;127
+182;Soft Candy;66
+183;Coffee;88

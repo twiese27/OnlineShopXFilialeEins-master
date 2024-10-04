@@ -1,0 +1,31 @@
+EMPLOYEE_EXTENSION_ID;EMPLOYEE_ID;BANK_NAME;BIC;WORKING_HOURS_PER_WEEK;PROVISION_RATE;ADDITIONAL_ADDRESS_INFORMATION;ADDRESS_TYPE;GENDER;EMAIL;PHONE_NUMBER
+1;1;Sparkasse Oldenburg;BRLADE21OLD;40;2,5;;;w;m.schmidt@ibs-ol.de;+4944112345678
+2;2;Volksbank Oldenburg;GENODEF1EDE;40;2,0;;;m;t.mueller@ibs-ol.de;+4944123456789
+3;3;Commerzbank;COBADEFFXXX;40;2,0;;;w;s.weber@ibs-ol.de;+4944134567890
+4;4;Deutsche Bank;DEUTDE2H280;38;1,5;;;m;m.becker@ibs-ol.de;+4944145678901
+5;5;Sparkasse Oldenburg;BRLADE21OLD;38;1,5;;;w;l.hoffmann@ibs-ol.de;+4944156789012
+6;6;Volksbank Oldenburg;GENODEF1EDE;35;1,5;;;m;j.koch@ibs-ol.de;+4944167890123
+7;7;Commerzbank;COBADEFFXXX;35;1,5;;;w;a.fischer@ibs-ol.de;+4944178901234
+8;8;Deutsche Bank;DEUTDE2H280;38;1,5;;;m;f.meyer@ibs-ol.de;+4944189012345
+9;9;Sparkasse Oldenburg;BRLADE21OLD;40;1,0;;;w;j.wagner@ibs-ol.de;+4944190123456
+10;10;Volksbank Oldenburg;GENODEF1EDE;40;1,0;;;m;m.schaefer@ibs-ol.de;+4944101234567
+11;11;Commerzbank;COBADEFFXXX;38;1,0;;;w;s.klein@ibs-ol.de;+4944112345678
+12;12;Deutsche Bank;DEUTDE2H280;40;1,75;;;m;d.richter@ibs-ol.de;+4944123456789
+13;13;Sparkasse Oldenburg;BRLADE21OLD;38;1,5;;;w;n.bauer@ibs-ol.de;+4944134567890
+14;14;Volksbank Oldenburg;GENODEF1EDE;35;1,5;;;m;t.schulz@ibs-ol.de;+4944145678901
+15;15;Commerzbank;COBADEFFXXX;35;1,5;;;w;l.krause@ibs-ol.de;+4944156789012
+16;16;Deutsche Bank;DEUTDE2H280;38;1,0;;;m;p.schmitt@ibs-ol.de;+4944167890123
+17;17;Sparkasse Oldenburg;BRLADE21OLD;38;1,25;;;w;k.wolf@ibs-ol.de;+4944178901234
+18;18;Volksbank Oldenburg;GENODEF1EDE;35;1,5;2. Stock;;m;s.neumann@ibs-ol.de;+4944189012345
+19;19;Commerzbank;COBADEFFXXX;38;1,5;;;w;e.schwarz@ibs-ol.de;+4944190123456
+20;20;Deutsche Bank;DEUTDE2H280;38;1,0;;;m;a.zimmermann@ibs-ol.de;+4944101234567
+21;21;Sparkasse Oldenburg;BRLADE21OLD;40;1,5;;;w;m.braun@ibs-ol.de;+4944112345678
+22;22;Volksbank Oldenburg;GENODEF1EDE;35;1,5;;;m;c.hartmann@ibs-ol.de;+4944123456789
+23;23;Commerzbank;COBADEFFXXX;38;1,5;;;w;s.lange@ibs-ol.de;+4944134567890
+24;24;Deutsche Bank;DEUTDE2H280;40;1,0;;;m;m.werner@ibs-ol.de;+4944145678901
+25;25;Sparkasse Oldenburg;BRLADE21OLD;38;1,25;;;w;c.schmitz@ibs-ol.de;+4944156789012
+26;26;Volksbank Oldenburg;GENODEF1EDE;38;1,5;;;m;f.krueger@ibs-ol.de;+4944167890123
+27;27;Commerzbank;COBADEFFXXX;35;1,5;;;w;j.hofmann@ibs-ol.de;+4944178901234
+28;28;Deutsche Bank;DEUTDE2H280;38;1,0;;;m;d.schroeder@ibs-ol.de;+4944189012345
+29;29;Sparkasse Oldenburg;BRLADE21OLD;38;1,5;;;w;t.huber@ibs-ol.de;+4944190123456
+30;30;Volksbank Oldenburg;GENODEF1EDE;40;1,75;;;m;m.berger@ibs-ol.de;+4944101234567

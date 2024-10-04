@@ -1,0 +1,169 @@
+PRODUCT_CATEGORY_ID;TOP_CATEGORY_ID;PRODUCT_CATEGORY_NAME;HIERARCHY_LEVEL
+1;153;Nuts;3
+2;145;Shellfish;3
+3;128;Canned Fruit;3
+4;140;Spices;3
+5;156;Pasta;3
+6;166;Yogurt;3
+7;137;Coffee;3
+8;126;Deli Meats;3
+9;146;Ice Cream;3
+10;170;TV Dinner;3
+11;131;Cheese;3
+12;132;Chips;3
+13;150;Metal;3
+14;166;Sour Cream;3
+15;131;Cottage Cheese;3
+16;142;Deli Salads;3
+17;132;Dried Meat;3
+18;155;Paper Wipes;3
+19;164;Soda;3
+20;136;Deodorizers;3
+21;150;Woods;3
+22;136;Cleaners;3
+23;136;Shower Soap;3
+24;145;Fresh Fish;3
+25;122;Bagels;3
+26;122;Muffins;3
+27;122;Sliced Bread;3
+28;130;Pancake Mix;3
+29;130;Pancakes;3
+30;148;Juice;3
+31;147;Jelly;3
+32;147;Jam;3
+33;147;Preserves;3
+34;130;Waffles;3
+35;130;Cereal;3
+36;134;Chocolate Candy;3
+37;134;Gum;3
+38;134;Hard Candy;3
+39;157;Personal Hygiene;3
+40;160;Pots and Pans;3
+41;162;Tools;3
+42;160;Sponges;3
+43;125;Beer;3
+44;125;Wine;3
+45;132;Cookies;3
+46;132;Pretzels;3
+47;127;Candles;3
+48;140;Sauces;3
+49;140;Cooking Oil;3
+50;140;Sugar;3
+51;133;Chocolate;3
+52;144;Flavored Drinks;3
+53;147;Peanut Butter;3
+54;132;Popcorn;3
+55;155;Paper Dishes;3
+56;159;Plastic Utensils;3
+57;156;Rice;3
+58;165;Soup;3
+59;141;Dehydrated Soup;3
+60;129;Frozen Vegetables;3
+61;129;Fresh Vegetables;3
+62;129;Canned Vegetables;3
+63;129;French Fries;3
+64;158;Pizza;3
+65;126;Hamburger;3
+66;143;Eggs;3
+67;168;Tofu;3
+68;139;Dish Soap;3
+69;139;Dishwasher Soap;3
+70;118;Aspirin;3
+71;118;Ibuprofen;3
+72;118;Acetominifen;3
+73;152;Nasal Sprays;3
+74;139;Mouthwash;3
+75;138;Cold Remedies;3
+76;151;Milk;3
+77;126;Fresh Chicken;3
+78;139;Conditioner;3
+79;139;Shampoo;3
+80;123;Lightbulbs;3
+81;126;Hot Dogs;3
+82;132;Crackers;3
+83;132;Dips;3
+84;132;Donuts;3
+85;139;Toilet Brushes;3
+86;160;Pot Scrubbers;3
+87;160;Pot Cleaners;3
+88;139;Toothbrushes;3
+89;167;Sunglasses;3
+90;133;Coffee;3
+91;126;Bologna;3
+92;125;Non-Alcoholic Wine;3
+93;169;Tuna;3
+94;163;Shrimp;3
+95;120;Anchovies;3
+96;135;Clams;3
+97;154;Oysters;3
+98;161;Sardines;3
+99;128;Fresh Fruit;3
+100;126;Frozen Chicken;3
+101;123;Batteries;3
+102;149;Maps;3
+103;162;Screwdrivers;3
+104;121;Sports Magazines;3
+105;121;Home Magazines;3
+106;121;Fashion Magazines;3
+107;121;Computer Magazines;3
+108;121;Auto Magazines;3
+109;132;Dried Fruit;3
+110;146;Popsicles;3
+111;123;Tablets;3
+112;123;Drilling Machines;3
+113;134;Soft Candy;3
+116;150;Stone;3
+117;;Non-Consumable;1
+118;117;Pain Relievers;2
+119;;Food;1
+120;119;Canned Anchovies;2
+121;117;Magazines;2
+122;119;Bread;2
+123;117;Electrical;2
+124;;Drink;1
+125;124;Beer and Wine;2
+126;119;Meat;2
+127;117;Candles;2
+128;119;Fruit;2
+129;119;Vegetables;2
+130;119;Breakfast Foods;2
+131;119;Dairy;2
+132;119;Snack Foods;2
+133;124;Hot Beverages;2
+134;119;Candy;2
+135;119;Canned Clams;2
+136;117;Cleaning Supplies;2
+137;124;Dry Goods;2
+138;117;Cold Remedies;2
+139;117;Bathroom Products;2
+140;119;Baking Goods;2
+141;119;Packaged Soup;2
+142;119;Side Dishes;2
+143;119;Eggs;2
+144;124;Drinks;2
+145;119;Seafood;2
+146;119;Frozen Desserts;2
+147;119;Jams and Jellies;2
+148;124;Pure Juice Beverages;2
+149;117;Miscellaneous;2
+150;117;Construction Materials;2
+151;124;Dairy;2
+152;117;Decongestants;2
+153;119;Specialty;2
+154;119;Canned Oysters;2
+155;117;Paper Products;2
+156;119;Starchy Foods;2
+157;117;Hygiene;2
+158;119;Pizza;2
+159;117;Plastic Products;2
+160;117;Kitchen Products;2
+161;119;Canned Sardines;2
+162;117;Hardware;2
+163;119;Canned Shrimp;2
+164;124;Carbonated Beverages;2
+165;119;Canned Soup;2
+166;119;Dairy;2
+167;117;Specialty;2
+168;119;Packaged Vegetables;2
+169;119;Canned Tuna;2
+170;119;Frozen Entrees;2

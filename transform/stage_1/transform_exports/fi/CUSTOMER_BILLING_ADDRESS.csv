@@ -1,0 +1,101 @@
+﻿CUSTOMER_BILLING_ADDRESS_ID;STREET;CITY;HOUSE_NUMBER;COUNTRY;POSTAL_CODE;ADDITIONAL_ADDRESS_INFORMATION;CUSTOMER_ID
+1;Ziegelhofstraße;Oldenburg;2;Germany;;;1
+2;Damm;Oldenburg;15;Germany;;;2
+3;Mühlenstraße;Oldenburg;8;Germany;;;3
+4;Wallstraße;Oldenburg;21;Germany;;;4
+5;Huntestraße;Oldenburg;33;Germany;;;5
+6;Peterstraße;Oldenburg;7;Germany;26121;;6
+7;Kurwickstraße;Oldenburg;12;Germany;26123;;7
+8;Lindenallee;Oldenburg;19;Germany;26125;;8
+9;Eichenstraße;Oldenburg;28;Germany;26127;;9
+10;Birkenweg;Oldenburg;36;Germany;26129;;10
+11;Seestraße;Bad Zwischenahn;5;Germany;26160;;11
+12;Bahnhofstraße;Rastede;10;Germany;26180;;12
+13;Oldenburger Straße;Wardenburg;15;Germany;26203;;13
+14;Hauptstraße;Wiefelstede;22;Germany;26215;;14
+15;Hauptstraße;Edewecht;30;Germany;26188;;15
+16;Sögestraße;Bremen;33;Germany;28195;;16
+17;Georgstraße;Hannover;20;Germany;30159;;17
+18;Poststraße;Oldenburg;41;Germany;26121;;18
+19;Ritterstraße;Oldenburg;9;Germany;26123;;19
+20;Theaterwall;Oldenburg;17;Germany;26125;;20
+21;Lambertistraße;Oldenburg;23;Germany;26127;;21
+22;Gaststraße;Oldenburg;35;Germany;26129;;22
+23;Mottenstraße;Oldenburg;14;Germany;26121;;23
+24;Bergstraße;Oldenburg;26;Germany;26123;;24
+25;Friedensplatz;Oldenburg;8;Germany;26125;;25
+26;Herbartgang;Oldenburg;3;Germany;26127;;26
+27;Julius-Mosen-Platz;Oldenburg;11;Germany;26129;;27
+28;Lange Straße;Bad Zwischenahn;18;Germany;26160;;28
+29;Oldenburger Straße;Rastede;7;Germany;26180;;29
+30;Friedrichstraße;Wardenburg;22;Germany;26203;;30
+31;Petkumer Straße;Wiefelstede;13;Germany;26215;;31
+32;Holljestraße;Edewecht;9;Germany;26188;;32
+33;Jungfernstieg;Hamburg;30;Germany;20354;;33
+34;Unter den Linden;Berlin;26;Germany;10117;;34
+35;Staulinie;Oldenburg;5;Germany;26121;;35
+36;Scheideweg;Oldenburg;18;Germany;26123;;36
+37;Heiligengeistwall;Oldenburg;12;Germany;26125;;37
+38;Industriestraße;Oldenburg;37;Germany;26127;;38
+39;Nadorster Straße;Oldenburg;55;Germany;26129;;39
+40;Melkbrink;Oldenburg;9;Germany;26121;;40
+41;Ehnernstraße;Oldenburg;14;Germany;26123;;41
+42;Stedinger Straße;Oldenburg;28;Germany;26125;;42
+43;Klingenbergstraße;Oldenburg;7;Germany;26127;;43
+44;Brommystraße;Oldenburg;22;Germany;26129;;44
+45;Peterstraße;Bad Zwischenahn;11;Germany;26160;;45
+46;Mühlenstraße;Rastede;9;Germany;26180;;46
+47;Akazienstraße;Wardenburg;16;Germany;26203;;47
+48;Oldenburger Straße;Wiefelstede;4;Germany;26215;;48
+49;Rathausstraße;Edewecht;20;Germany;26188;;49
+50;Marienplatz;München;8;Germany;80331;;50
+51;Römerberg;Frankfurt;23;Germany;60313;;51
+52;Roonstraße;Oldenburg;15;Germany;26121;;52
+53;Auguststraße;Oldenburg;31;Germany;26123;;53
+54;Donnerschweer Straße;Oldenburg;81;Germany;26125;;54
+55;Bremer Heerstraße;Oldenburg;100;Germany;26127;;55
+56;Nadorster Straße;Oldenburg;112;Germany;26129;;56
+57;Haareneschstraße;Oldenburg;25;Germany;26121;;57
+58;Baumstraße;Oldenburg;7;Germany;26123;;58
+59;Eichenstraße;Oldenburg;19;Germany;26125;;59
+60;Brookweg;Oldenburg;33;Germany;26127;;60
+61;Alexanderstraße;Oldenburg;44;Germany;26129;;61
+62;Elmendorfer Straße;Bad Zwischenahn;27;Germany;26160;;62
+63;Raiffeisenstraße;Rastede;14;Germany;26180;;63
+64;Hundsmühler Straße;Wardenburg;38;Germany;26203;;64
+65;Oldenburger Straße;Wiefelstede;21;Germany;26215;;65
+66;Hauptstraße;Edewecht;55;Germany;26188;;66
+67;Schildergasse;Köln;114;Germany;50667;;67
+68;Königsallee;Düsseldorf;28;Germany;40213;;68
+69;Bahnhofstraße;Oldenburg;23;Germany;26121;;69
+70;Markt;Oldenburg;7;Germany;26123;;70
+71;Donnerschweer Straße;Oldenburg;4;Germany;26125;;71
+72;Hopfenstraße;Oldenburg;12;Germany;26127;;72
+73;Friedlandstraße;Oldenburg;39;Germany;26129;;73
+74;Stautorstraße;Oldenburg;8;Germany;26121;;74
+75;Kleine Kirchstraße;Oldenburg;2;Germany;26123;;75
+76;Lindhooper Straße;Oldenburg;17;Germany;26125;;76
+77;Brüderstraße;Oldenburg;5;Germany;26127;;77
+78;Schützenweg;Oldenburg;30;Germany;26129;;78
+79;Zum Rosenteich;Bad Zwischenahn;3;Germany;26160;;79
+80;Feldbreite;Rastede;19;Germany;26180;;80
+81;Patenbergsweg;Wardenburg;6;Germany;26203;;81
+82;Bremerstraße;Wiefelstede;11;Germany;26215;;82
+83;Oldenburger Straße;Edewecht;42;Germany;26188;;83
+84;Hauptstraße;Stuttgart;4;Germany;70173;;84
+85;Prager Straße;Dresden;15;Germany;01067;;85
+86;Heiligengeiststraße;Oldenburg;10;Germany;26121;1. OG;86
+87;Lange Straße;Oldenburg;49;Germany;26123;;87
+88;Ammergaustraße;Oldenburg;22;Germany;26125;;88
+89;Alexanderstraße;Oldenburg;65;Germany;26127;;89
+90;Butjadinger Straße;Oldenburg;14;Germany;26129;;90
+91;Mozartstraße;Oldenburg;7;Germany;26121;;91
+92;Bachstraße;Oldenburg;19;Germany;26123;;92
+93;Beethovenstraße;Oldenburg;31;Germany;26125;;93
+94;Schubertstraße;Oldenburg;8;Germany;26127;;94
+95;Händelstraße;Oldenburg;25;Germany;26129;;95
+96;Gartenweg;Bad Zwischenahn;12;Germany;26160;;96
+97;Feldstraße;Rastede;5;Germany;26180;;97
+98;Brookdamm;Wardenburg;17;Germany;26203;;98
+99;Dohlenweg;Wiefelstede;9;Germany;26215;;99
+100;Hauptstraße;Edewecht;28;Germany;26188;;100

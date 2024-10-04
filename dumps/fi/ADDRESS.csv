@@ -1,0 +1,238 @@
+ADDRESS_ID;SUPPLIER_ID;PLACE_OF_SALE_ID;COUNTRY;CITY;POSTCODE;STREET;HOUSE_NUMBER;ADDITIONAL_ADDRESS_INFORMATION;TYPE
+1;1;;Deutschland;Hamburg;20095;Mönckebergstraße;7;;billing
+2;2;;Deutschland;München;80331;Kaufingerstraße;15;;billing
+3;3;;Deutschland;Berlin;10117;Friedrichstraße;149;;billing
+4;4;;Deutschland;Köln;50667;Hohe Straße;46;;billing
+5;5;;Deutschland;Frankfurt;60313;Zeil;85;;billing
+6;6;;Deutschland;Stuttgart;70173;Königstraße;1a;;billing
+7;;1;Deutschland;Oldenburg;26121;Industriestraße;6;;
+8;;;Deutschland;Oldenburg;26121;Hauptstraße;10;;
+9;;;Deutschland;Oldenburg;26123;Bahnhofstraße;15;;
+10;;;Deutschland;Oldenburg;26125;Marktplatz;5;;
+11;;;Deutschland;Oldenburg;26127;Schlossplatz;3;;
+12;;;Deutschland;Oldenburg;26129;Alexanderstraße;22;;
+13;;;Deutschland;Oldenburg;26121;Staustraße;18;;
+14;;;Deutschland;Oldenburg;26123;Heiligengeiststraße;7;;
+15;;;Deutschland;Oldenburg;26125;Achternstraße;1;;
+16;;;Deutschland;Oldenburg;26127;Burgstraße;12;;
+17;;;Deutschland;Oldenburg;26129;Donnerschweer Straße;30;;
+18;;;Deutschland;Oldenburg;26121;Nadorster Straße;45;;
+19;;;Deutschland;Oldenburg;26123;Bremer Heerstraße;60;;
+20;;;Deutschland;Oldenburg;26125;Cloppenburger Straße;33;;
+21;;;Deutschland;Oldenburg;26127;Ammerländer Heerstraße;75;;
+22;;;Deutschland;Oldenburg;26129;Ofener Straße;20;;
+23;;;Deutschland;Oldenburg;26121;Bloherfelder Straße;55;;
+24;;;Deutschland;Oldenburg;26123;Hundsmühler Straße;40;;
+25;;;Deutschland;Oldenburg;26125;Altmarkt;8;2. Stock;
+26;;;Deutschland;Oldenburg;26127;Flinger Straße;17;;
+27;;;Deutschland;Oldenburg;26129;Marktplatz;29;;
+28;;;Deutschland;Oldenburg;26121;Römerberg;14;;
+29;;;Deutschland;Oldenburg;26123;Karmarschstraße;36;;
+30;;;Deutschland;Oldenburg;26125;Kämmererstraße;23;;
+31;;;Deutschland;Oldenburg;26127;Nürnberger Straße;11;;
+32;;;Deutschland;Oldenburg;26129;Elberfelder Straße;42;;
+33;;;Deutschland;Oldenburg;26121;Obere Königsstraße;50;;
+34;;;Deutschland;Oldenburg;26123;Münsterplatz;19;;
+35;;;Deutschland;Oldenburg;26125;Kuhstraße;31;;
+36;;;Deutschland;Oldenburg;26127;Schildergasse;27;;
+37;;;Deutschland;Oldenburg;26129;Alexanderstraße;38;;
+38;;;Deutschland;Oldenburg;;Ziegelhofstraße;2;;billing
+39;;;Deutschland;Oldenburg;;Damm;15;;billing
+40;;;Deutschland;Oldenburg;;Mühlenstraße;8;;billing
+41;;;Deutschland;Oldenburg;;Wallstraße;21;;billing
+42;;;Deutschland;Oldenburg;;Huntestraße;33;;billing
+43;;;Deutschland;Oldenburg;26121;Peterstraße;7;;billing
+44;;;Deutschland;Oldenburg;26123;Kurwickstraße;12;;billing
+45;;;Deutschland;Oldenburg;26125;Lindenallee;19;;billing
+46;;;Deutschland;Oldenburg;26127;Eichenstraße;28;;billing
+47;;;Deutschland;Oldenburg;26129;Birkenweg;36;;billing
+48;;;Deutschland;Bad Zwischenahn;26160;Seestraße;5;;billing
+49;;;Deutschland;Rastede;26180;Bahnhofstraße;10;;billing
+50;;;Deutschland;Wardenburg;26203;Oldenburger Straße;15;;billing
+51;;;Deutschland;Wiefelstede;26215;Hauptstraße;22;;billing
+52;;;Deutschland;Edewecht;26188;Hauptstraße;30;;billing
+53;;;Deutschland;Bremen;28195;Sögestraße;33;;billing
+54;;;Deutschland;Hannover;30159;Georgstraße;20;;billing
+55;;;Deutschland;Oldenburg;26121;Poststraße;41;;billing
+56;;;Deutschland;Oldenburg;26123;Ritterstraße;9;;billing
+57;;;Deutschland;Oldenburg;26125;Theaterwall;17;;billing
+58;;;Deutschland;Oldenburg;26127;Lambertistraße;23;;billing
+59;;;Deutschland;Oldenburg;26129;Gaststraße;35;;billing
+60;;;Deutschland;Oldenburg;26121;Mottenstraße;14;;billing
+61;;;Deutschland;Oldenburg;26123;Bergstraße;26;;billing
+62;;;Deutschland;Oldenburg;26125;Friedensplatz;8;;billing
+63;;;Deutschland;Oldenburg;26127;Herbartgang;3;;billing
+64;;;Deutschland;Oldenburg;26129;Julius-Mosen-Platz;11;;billing
+65;;;Deutschland;Bad Zwischenahn;26160;Lange Straße;18;;billing
+66;;;Deutschland;Rastede;26180;Oldenburger Straße;7;;billing
+67;;;Deutschland;Wardenburg;26203;Friedrichstraße;22;;billing
+68;;;Deutschland;Wiefelstede;26215;Petkumer Straße;13;;billing
+69;;;Deutschland;Edewecht;26188;Holljestraße;9;;billing
+70;;;Deutschland;Hamburg;20354;Jungfernstieg;30;;billing
+71;;;Deutschland;Berlin;10117;Unter den Linden;26;;billing
+72;;;Deutschland;Oldenburg;26121;Staulinie;5;;billing
+73;;;Deutschland;Oldenburg;26123;Scheideweg;18;;billing
+74;;;Deutschland;Oldenburg;26125;Heiligengeistwall;12;;billing
+75;;;Deutschland;Oldenburg;26127;Industriestraße;37;;billing
+76;;;Deutschland;Oldenburg;26129;Nadorster Straße;55;;billing
+77;;;Deutschland;Oldenburg;26121;Melkbrink;9;;billing
+78;;;Deutschland;Oldenburg;26123;Ehnernstraße;14;;billing
+79;;;Deutschland;Oldenburg;26125;Stedinger Straße;28;;billing
+80;;;Deutschland;Oldenburg;26127;Klingenbergstraße;7;;billing
+81;;;Deutschland;Oldenburg;26129;Brommystraße;22;;billing
+82;;;Deutschland;Bad Zwischenahn;26160;Peterstraße;11;;billing
+83;;;Deutschland;Rastede;26180;Mühlenstraße;9;;billing
+84;;;Deutschland;Wardenburg;26203;Akazienstraße;16;;billing
+85;;;Deutschland;Wiefelstede;26215;Oldenburger Straße;4;;billing
+86;;;Deutschland;Edewecht;26188;Rathausstraße;20;;billing
+87;;;Deutschland;München;80331;Marienplatz;8;;billing
+88;;;Deutschland;Frankfurt;60313;Römerberg;23;;billing
+89;;;Deutschland;Oldenburg;26121;Roonstraße;15;;billing
+90;;;Deutschland;Oldenburg;26123;Auguststraße;31;;billing
+91;;;Deutschland;Oldenburg;26125;Donnerschweer Straße;81;;billing
+92;;;Deutschland;Oldenburg;26127;Bremer Heerstraße;100;;billing
+93;;;Deutschland;Oldenburg;26129;Nadorster Straße;112;;billing
+94;;;Deutschland;Oldenburg;26121;Haareneschstraße;25;;billing
+95;;;Deutschland;Oldenburg;26123;Baumstraße;7;;billing
+96;;;Deutschland;Oldenburg;26125;Eichenstraße;19;;billing
+97;;;Deutschland;Oldenburg;26127;Brookweg;33;;billing
+98;;;Deutschland;Oldenburg;26129;Alexanderstraße;44;;billing
+99;;;Deutschland;Bad Zwischenahn;26160;Elmendorfer Straße;27;;billing
+100;;;Deutschland;Rastede;26180;Raiffeisenstraße;14;;billing
+101;;;Deutschland;Wardenburg;26203;Hundsmühler Straße;38;;billing
+102;;;Deutschland;Wiefelstede;26215;Oldenburger Straße;21;;billing
+103;;;Deutschland;Edewecht;26188;Hauptstraße;55;;billing
+104;;;Deutschland;Köln;50667;Schildergasse;114;;billing
+105;;;Deutschland;Düsseldorf;40213;Königsallee;28;;billing
+106;;;Deutschland;Oldenburg;26121;Bahnhofstraße;23;;billing
+107;;;Deutschland;Oldenburg;26123;Markt;7;;billing
+108;;;Deutschland;Oldenburg;26125;Donnerschweer Straße;4;;billing
+109;;;Deutschland;Oldenburg;26127;Hopfenstraße;12;;billing
+110;;;Deutschland;Oldenburg;26129;Friedlandstraße;39;;billing
+111;;;Deutschland;Oldenburg;26121;Stautorstraße;8;;billing
+112;;;Deutschland;Oldenburg;26123;Kleine Kirchstraße;2;;billing
+113;;;Deutschland;Oldenburg;26125;Lindhooper Straße;17;;billing
+114;;;Deutschland;Oldenburg;26127;Brüderstraße;5;;billing
+115;;;Deutschland;Oldenburg;26129;Schützenweg;30;;billing
+116;;;Deutschland;Bad Zwischenahn;26160;Zum Rosenteich;3;;billing
+117;;;Deutschland;Rastede;26180;Feldbreite;19;;billing
+118;;;Deutschland;Wardenburg;26203;Patenbergsweg;6;;billing
+119;;;Deutschland;Wiefelstede;26215;Bremerstraße;11;;billing
+120;;;Deutschland;Edewecht;26188;Oldenburger Straße;42;;billing
+121;;;Deutschland;Stuttgart;70173;Hauptstraße;4;;billing
+122;;;Deutschland;Dresden;01067;Prager Straße;15;;billing
+123;;;Deutschland;Oldenburg;26121;Heiligengeiststraße;10;1. OG;billing
+124;;;Deutschland;Oldenburg;26123;Lange Straße;49;;billing
+125;;;Deutschland;Oldenburg;26125;Ammergaustraße;22;;billing
+126;;;Deutschland;Oldenburg;26127;Alexanderstraße;65;;billing
+127;;;Deutschland;Oldenburg;26129;Butjadinger Straße;14;;billing
+128;;;Deutschland;Oldenburg;26121;Mozartstraße;7;;billing
+129;;;Deutschland;Oldenburg;26123;Bachstraße;19;;billing
+130;;;Deutschland;Oldenburg;26125;Beethovenstraße;31;;billing
+131;;;Deutschland;Oldenburg;26127;Schubertstraße;8;;billing
+132;;;Deutschland;Oldenburg;26129;Händelstraße;25;;billing
+133;;;Deutschland;Bad Zwischenahn;26160;Gartenweg;12;;billing
+134;;;Deutschland;Rastede;26180;Feldstraße;5;;billing
+135;;;Deutschland;Wardenburg;26203;Brookdamm;17;;billing
+136;;;Deutschland;Wiefelstede;26215;Dohlenweg;9;;billing
+137;;;Deutschland;Edewecht;26188;Hauptstraße;28;;billing
+138;;;Deutschland;Oldenburg;26121;Ziegelhofstraße;2;;delivery
+139;;;Deutschland;Oldenburg;26123;Damm;15;;delivery
+140;;;Deutschland;Oldenburg;26125;Mühlenstraße;8;;delivery
+141;;;Deutschland;Oldenburg;26127;Wallstraße;21;;delivery
+142;;;Deutschland;Oldenburg;26129;Huntestraße;33;;delivery
+143;;;Deutschland;Oldenburg;26121;Peterstraße;7;;delivery
+144;;;Deutschland;Oldenburg;26123;Kurwickstraße;12;;delivery
+145;;;Deutschland;Oldenburg;26125;Lindenallee;19;;delivery
+146;;;Deutschland;Oldenburg;26127;Eichenstraße;28;;delivery
+147;;;Deutschland;Oldenburg;26129;Birkenweg;36;;delivery
+148;;;Deutschland;Bad Zwischenahn;26160;Seestraße;5;;delivery
+149;;;Deutschland;Rastede;26180;Bahnhofstraße;10;;delivery
+150;;;Deutschland;Wardenburg;26203;Oldenburger Straße;15;;delivery
+151;;;Deutschland;Wiefelstede;26215;Hauptstraße;22;;delivery
+152;;;Deutschland;Edewecht;26188;Hauptstraße;30;;delivery
+153;;;Deutschland;Bremen;28195;Sögestraße;33;;delivery
+154;;;Deutschland;Hannover;30159;Georgstraße;20;;delivery
+155;;;Deutschland;Oldenburg;26121;Poststraße;41;;delivery
+156;;;Deutschland;Oldenburg;26123;Ritterstraße;9;;delivery
+157;;;Deutschland;Oldenburg;26125;Theaterwall;17;;delivery
+158;;;Deutschland;Oldenburg;26127;Lambertistraße;23;;delivery
+159;;;Deutschland;Oldenburg;26129;Gaststraße;35;;delivery
+160;;;Deutschland;Oldenburg;26121;Mottenstraße;14;;delivery
+161;;;Deutschland;Oldenburg;26123;Bergstraße;26;;delivery
+162;;;Deutschland;Oldenburg;26125;Friedensplatz;8;;delivery
+163;;;Deutschland;Oldenburg;26127;Herbartgang;3;;delivery
+164;;;Deutschland;Oldenburg;26129;Julius-Mosen-Platz;11;;delivery
+165;;;Deutschland;Bad Zwischenahn;26160;Lange Straße;18;;delivery
+166;;;Deutschland;Rastede;26180;Oldenburger Straße;7;;delivery
+167;;;Deutschland;Wardenburg;26203;Friedrichstraße;22;;delivery
+168;;;Deutschland;Wiefelstede;26215;Petkumer Straße;13;;delivery
+169;;;Deutschland;Edewecht;26188;Holljestraße;9;;delivery
+170;;;Deutschland;Hamburg;20354;Jungfernstieg;30;;delivery
+171;;;Deutschland;Berlin;10117;Unter den Linden;26;;delivery
+172;;;Deutschland;Oldenburg;26121;Staulinie;5;;delivery
+173;;;Deutschland;Oldenburg;26123;Scheideweg;18;;delivery
+174;;;Deutschland;Oldenburg;26125;Heiligengeistwall;12;;delivery
+175;;;Deutschland;Oldenburg;26127;Industriestraße;37;Hinterhaus;delivery
+176;;;Deutschland;Oldenburg;26129;Nadorster Straße;55;;delivery
+177;;;Deutschland;Oldenburg;26121;Melkbrink;9;Apartment 3b;delivery
+178;;;Deutschland;Oldenburg;26123;Ehnernstraße;14;;delivery
+179;;;Deutschland;Oldenburg;26125;Stedinger Straße;28;2. OG rechts;delivery
+180;;;Deutschland;Oldenburg;26127;Klingenbergstraße;7;;delivery
+181;;;Deutschland;Oldenburg;26129;Brommystraße;22;Erdgeschoss;delivery
+182;;;Deutschland;Bad Zwischenahn;26160;Peterstraße;11;;delivery
+183;;;Deutschland;Rastede;26180;Mühlenstraße;9;Hinterhof;delivery
+184;;;Deutschland;Wardenburg;26203;Akazienstraße;16;;delivery
+185;;;Deutschland;Wiefelstede;26215;Am Markt;4;Laden links;delivery
+186;;;Deutschland;Edewecht;26188;Rathausstraße;20;;delivery
+187;;;Deutschland;München;80331;Marienplatz;8;4. Etage;delivery
+188;;;Deutschland;Frankfurt;60313;Römerberg;23;;delivery
+189;;;Deutschland;Oldenburg;26121;Roonstraße;15;Dachgeschoss;delivery
+190;;;Deutschland;Oldenburg;26123;Auguststraße;31;;delivery
+191;;;Deutschland;Oldenburg;26125;Donnerschweer Straße;81;Seiteneingang;delivery
+192;;;Deutschland;Oldenburg;26127;Bremer Heerstraße;100;;delivery
+193;;;Deutschland;Oldenburg;26129;Nadorster Straße;112;Gebäude B;delivery
+194;;;Deutschland;Oldenburg;26121;Haareneschstraße;25;;delivery
+195;;;Deutschland;Oldenburg;26123;Baumstraße;7;Souterrain;delivery
+196;;;Deutschland;Oldenburg;26125;Eichenstraße;19;;delivery
+197;;;Deutschland;Oldenburg;26127;Brookweg;33;Gartenhaus;delivery
+198;;;Deutschland;Oldenburg;26129;Alexanderstraße;44;;delivery
+199;;;Deutschland;Bad Zwischenahn;26160;Elmendorfer Straße;27;1. OG;delivery
+200;;;Deutschland;Rastede;26180;Raiffeisenstraße;14;;delivery
+201;;;Deutschland;Wardenburg;26203;Hundsmühler Straße;38;Nebengebäude;delivery
+202;;;Deutschland;Wiefelstede;26215;Oldenburger Straße;21;;delivery
+203;;;Deutschland;Edewecht;26188;Hauptstraße;55;Apartment 12;delivery
+204;;;Deutschland;Köln;50667;Schildergasse;114;Rückgebäude;delivery
+205;;;Deutschland;Düsseldorf;40213;Königsallee;28;;delivery
+206;;;Deutschland;Oldenburg;26121;Bahnhofstraße;23;3. OG links;delivery
+207;;;Deutschland;Oldenburg;26123;Markt;7;;delivery
+208;;;Deutschland;Oldenburg;26125;Lappan;4;Ladenlokal;delivery
+209;;;Deutschland;Oldenburg;26127;Hopfenstraße;12;;delivery
+210;;;Deutschland;Oldenburg;26129;Friedlandstraße;39;Hintereingang;delivery
+211;;;Deutschland;Oldenburg;26121;Stautorstraße;8;;delivery
+212;;;Deutschland;Oldenburg;26123;Kleine Kirchstraße;2;1. OG;delivery
+213;;;Deutschland;Oldenburg;26125;Lindhooper Straße;17;;delivery
+214;;;Deutschland;Oldenburg;26127;Brüderstraße;5;Dachgeschoss;delivery
+215;;;Deutschland;Oldenburg;26129;Schützenweg;30;;delivery
+216;;;Deutschland;Bad Zwischenahn;26160;Zum Rosenteich;3;Bungalow;delivery
+217;;;Deutschland;Rastede;26180;Feldbreite;19;;delivery
+218;;;Deutschland;Wardenburg;26203;Patenbergsweg;6;Hofeinfahrt;delivery
+219;;;Deutschland;Wiefelstede;26215;Bremerstraße;11;;delivery
+220;;;Deutschland;Edewecht;26188;Oldenburger Straße;42;Apartment 5;delivery
+221;;;Deutschland;Stuttgart;70173;Königstraße;1b;Büroetage 4;delivery
+222;;;Deutschland;Dresden;01067;Prager Straße;15;;delivery
+223;;;Deutschland;Oldenburg;26121;Heiligengeiststraße;10;1. OG;delivery
+224;;;Deutschland;Oldenburg;26123;Lange Straße;49;Hinterhof;delivery
+225;;;Deutschland;Oldenburg;26125;Ammergaustraße;22;;delivery
+226;;;Deutschland;Oldenburg;26127;Alexanderstraße;65;2. OG rechts;delivery
+227;;;Deutschland;Oldenburg;26129;Butjadinger Straße;14;;delivery
+228;;;Deutschland;Oldenburg;26121;Mozartstraße;7;Gartenwohnung;delivery
+229;;;Deutschland;Oldenburg;26123;Bachstraße;19;;delivery
+230;;;Deutschland;Oldenburg;26125;Beethovenstraße;31;Seitenflügel;delivery
+231;;;Deutschland;Oldenburg;26127;Schubertstraße;8;;delivery
+232;;;Deutschland;Oldenburg;26129;Händelstraße;25;Dachgeschoss;delivery
+233;;;Deutschland;Bad Zwischenahn;26160;Gartenweg;12;;delivery
+234;;;Deutschland;Rastede;26180;Feldstraße;5;Nebengebäude;delivery
+235;;;Deutschland;Wardenburg;26203;Brookdamm;17;;delivery
+236;;;Deutschland;Wiefelstede;26215;Dohlenweg;9;Apartment 3;delivery
+237;;;Deutschland;Edewecht;26188;Industriestraße;28;Bürogebäude;delivery

@@ -1,0 +1,7 @@
+SUPPLIER_ID;HOUSE_NUMBER;CITY;POSTAL_CODE;STREET;COUNTRY;NAME;IBAN;PHONE_NUMBER;CONTACT_PERSON;CONTACT_PERSON_EMAIL
+1;7;Hamburg;20095;Mönckebergstraße;Germany;Müller GmbH;DE89370400440871257221;+493012345678;Laura Schmidt;info@mueller.de
+2;15;München;80331;Kaufingerstraße;Germany;Schmidt und Co;DE89370400440713851927;+494023456789;Klaus Schneider;contact@schmidtco.de
+3;149;Berlin;10117;Friedrichstraße;Germany;Bauer AG;DE89370400440204091387;+496934567890;Anna Wagner;support@bauerag.de
+4;46;Köln;50667;Hohe Straße;Germany;Klein Handelsgesellschaft;DE89370400440123865272;+498945678901;Michael Meyer;service@kleinhandel.de
+5;85;Frankfurt;60313;Zeil;Germany;Weber Solutions;DE89370400440981761529;+4921156789012;Anna Weber;info@webersolutions.de
+6;1a;Stuttgart;70173;Königstraße;Germany;Richter GmbH;DE89370400440136455067;+4922167890123;Lena Weber;info@richter.de

@@ -1,0 +1,101 @@
+﻿CUSTOMER_EXTENSION_ID;CUSTOMER_ID;GENDER;ADDITIONAL_ADDRESS_INFORMATION
+1;1;m;
+2;2;w;
+3;3;m;
+4;4;w;
+5;5;m;
+6;6;w;
+7;7;m;
+8;8;w;
+9;9;m;
+10;10;w;
+11;11;m;
+12;12;w;
+13;13;m;
+14;14;w;
+15;15;d;
+16;16;w;
+17;17;m;
+18;18;w;
+19;19;m;
+20;20;w;
+21;21;m;
+22;22;w;
+23;23;m;
+24;24;w;
+25;25;m;
+26;26;w;
+27;27;d;
+28;28;w;
+29;29;m;
+30;30;w;
+31;31;m;
+32;32;w;
+33;33;m;
+34;34;w;
+35;35;m;
+36;36;w;
+37;37;m;
+38;38;w;Hinterhaus
+39;39;m;
+40;40;w;Apartment 3b
+41;41;m;
+42;42;w;2. OG rechts
+43;43;m;
+44;44;w;Erdgeschoss
+45;45;m;
+46;46;d;Hinterhof
+47;47;m;
+48;48;w;Laden links
+49;49;m;
+50;50;w;4. Etage
+51;51;m;
+52;52;w;Dachgeschoss
+53;53;m;
+54;54;w;Seiteneingang
+55;55;m;
+56;56;w;Gebäude B
+57;57;m;
+58;58;w;Souterrain
+59;59;m;
+60;60;w;Gartenhaus
+61;61;m;
+62;62;w;1. OG
+63;63;m;
+64;64;w;Nebengebäude
+65;65;m;
+66;66;w;Apartment 12
+67;67;m;Rückgebäude
+68;68;w;
+69;69;m;3. OG links
+70;70;w;
+71;71;m;Ladenlokal
+72;72;w;
+73;73;m;Hintereingang
+74;74;w;
+75;75;m;1. OG
+76;76;w;
+77;77;m;Dachgeschoss
+78;78;w;
+79;79;m;Bungalow
+80;80;w;
+81;81;m;Hofeinfahrt
+82;82;w;
+83;83;m;Apartment 5
+84;84;w;Büroetage 4
+85;85;m;
+86;86;w;1. OG
+87;87;m;Hinterhof
+88;88;w;
+89;89;m;2. OG rechts
+90;90;w;
+91;91;m;Gartenwohnung
+92;92;w;
+93;93;m;Seitenflügel
+94;94;w;
+95;95;m;Dachgeschoss
+96;96;w;
+97;97;d;Nebengebäude
+98;98;w;
+99;99;m;Apartment 3
+100;100;w;Bürogebäude

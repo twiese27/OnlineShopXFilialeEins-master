@@ -1,0 +1,175 @@
+PRODUCT_CATEGORY_ID;NAME;PARENT_CATEGORY
+1;Food;
+2;Produce;1
+3;Specialty;2
+4;Nuts;3
+5;Seafood;1
+6;Shellfish;5
+7;Canned Products;1
+8;Fruit;7
+9;Canned Fruit;8
+10;Baking Goods;1
+11;Spices;10
+12;Starchy Foods;1
+13;Pasta;12
+14;Dairy;1
+15;Yogurt;14
+16;Drink;
+17;Dry Goods;10
+18;Coffee;17
+19;Deli;1
+20;Meat;19
+21;Deli Meats;20
+22;Frozen Foods;1
+23;Frozen Desserts;22
+24;Ice Cream;23
+25;Frozen Entrees;22
+26;TV Dinner;25
+27;Cheese;14
+28;Snack Foods;1
+29;Chips;28
+30;Vegetables;2
+31;Fresh Vegetables;30
+32;Sour Cream;14
+33;Cottage Cheese;14
+34;Side Dishes;19
+35;Deli Salads;34
+36;Dried Meat;28
+37;Non-Consumable;
+38;Household;37
+39;Paper Products;38
+40;Paper Wipes;39
+41;Beverages;16
+42;Carbonated Beverages;41
+43;Soda;42
+44;Cleaning Supplies;38
+45;Deodorizers;44
+46;Cleaners;44
+47;Shower Soap;44
+48;Fresh Fish;5
+49;Baked Goods;1
+50;Bread;49
+51;Bagels;50
+52;Muffins;50
+53;Sliced Bread;50
+54;Breakfast Foods;22
+55;Pancake Mix;54
+56;Pancakes;54
+57;Pure Juice Beverages;41
+58;Juice;57
+59;Jams and Jellies;10
+60;Jelly;59
+61;Jam;59
+62;Preserves;59
+63;Waffles;54
+64;Cereal;54
+65;Snacks;1
+66;Candy;65
+67;Chocolate Candy;66
+68;Gum;66
+69;Hard Candy;66
+70;Health and Hygiene;37
+71;Hygiene;70
+72;Personal Hygiene;71
+73;Kitchen Products;38
+74;Pots and Pans;73
+75;Hardware;38
+76;Tools;75
+77;Sponges;73
+78;Alcoholic Beverages;16
+79;Beer and Wine;78
+80;Beer;79
+81;Wine;79
+82;Cookies;28
+83;Pretzels;28
+84;Candles;38
+85;Sauces;10
+86;Cooking Oil;10
+87;Sugar;10
+88;Hot Beverages;41
+89;Chocolate;88
+90;Drinks;41
+91;Flavored Drinks;90
+92;Peanut Butter;59
+93;Popcorn;28
+94;Paper Dishes;39
+95;Plastic Products;38
+96;Plastic Utensils;95
+97;Rice;12
+98;Canned Foods;1
+99;Canned Soup;98
+100;Soup;99
+101;Packaged Foods;1
+102;Packaged Soup;101
+103;Dehydrated Soup;102
+104;Frozen Vegetables;30
+105;Canned Vegetables;30
+106;French Fries;30
+107;Pizza;22
+108;Hamburger;20
+109;Eggs;1
+110;Packaged Vegetables;2
+111;Tofu;110
+112;Bathroom Products;70
+113;Dish Soap;112
+114;Dishwasher Soap;112
+115;Pain Relievers;70
+116;Aspirin;115
+117;Ibuprofen;115
+118;Acetominifen;115
+119;Decongestants;70
+120;Nasal Sprays;119
+121;Mouthwash;112
+122;Cold Remedies;70
+123;Milk;14
+124;Fresh Chicken;20
+125;Conditioner;112
+126;Shampoo;112
+127;Electrical;38
+128;Lightbulbs;127
+129;Hot Dogs;20
+130;Crackers;28
+131;Dips;28
+132;Donuts;28
+133;Toilet Brushes;112
+134;Pot Scrubbers;73
+135;Pot Cleaners;73
+136;Toothbrushes;112
+137;Carousel;37
+138;Sunglasses;3
+139;Bologna;20
+140;Non-Alcoholic Wine;79
+141;Canned Tuna;98
+142;Tuna;141
+143;Canned Shrimp;98
+144;Shrimp;143
+145;Canned Anchovies;98
+146;Anchovies;145
+147;Canned Clams;98
+148;Clams;147
+149;Canned Oysters;98
+150;Oysters;149
+151;Canned Sardines;98
+152;Sardines;151
+153;Fresh Fruit;8
+154;Frozen Chicken;20
+155;Batteries;127
+156;Checkout;37
+157;Miscellaneous;156
+158;Maps;157
+159;Screwdrivers;75
+160;Periodicals;37
+161;Magazines;160
+162;Sports Magazines;161
+163;Home Magazines;161
+164;Fashion Magazines;161
+165;Computer Magazines;161
+166;Auto Magazines;161
+167;Dried Fruit;28
+168;Popsicles;23
+169;Gummy Bear;66
+170;Technology;37
+171;Computers;170
+172;Notebook;171
+173;Electric Tools;76
+174;Electric Screwdrivers;173

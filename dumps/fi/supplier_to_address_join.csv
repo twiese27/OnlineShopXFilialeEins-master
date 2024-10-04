@@ -1,0 +1,7 @@
+SUPPLIER_ID;SUPPLIER_NAME;SUPPLIER_EMAIL;SUPPLIER_PHONE_NUMBER;ADDRESS_ID;SUPPLIER_ID;PLACE_OF_SALE_ID;COUNTRY;CITY;POSTCODE;STREET;HOUSE_NUMBER;ADDITIONAL_ADDRESS_INFORMATION;TYPE
+1;MÃ¼ller GmbH;info@mueller.de;+493012345678;1;1;;Deutschland;Hamburg;20095;Mönckebergstraße;7;;billing
+2;Schmidt und Co;contact@schmidtco.de;+494023456789;2;2;;Deutschland;München;80331;Kaufingerstraße;15;;billing
+3;Bauer AG;support@bauerag.de;+496934567890;3;3;;Deutschland;Berlin;10117;Friedrichstraße;149;;billing
+4;Klein Handelsgesellschaft;service@kleinhandel.de;+498945678901;4;4;;Deutschland;Köln;50667;Hohe Straße;46;;billing
+5;Weber Solutions;info@webersolutions.de;+4921156789012;5;5;;Deutschland;Frankfurt;60313;Zeil;85;;billing
+6;Richter GmbH;info@richter.de;+4922167890123;6;6;;Deutschland;Stuttgart;70173;Königstraße;1a;;billing

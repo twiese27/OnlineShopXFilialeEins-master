@@ -1,0 +1,13 @@
+ROLE_ID;NAME;IS_ADMIN
+1;Admin;1
+2;Customer Support;0
+3;Warehouse Manager;0
+4;Sales Manager;0
+5;Finance Manager;0
+6;IT Support;0
+7;Marketing Manager;0
+8;Product Manager;0
+9;HR Manager;0
+10;Content Manager;0
+11;Logistics Manager;0
+12;CEO;1

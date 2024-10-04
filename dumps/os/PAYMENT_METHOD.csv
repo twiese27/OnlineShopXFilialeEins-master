@@ -1,0 +1,8 @@
+PAYMENT_METHOD_ID;NAME
+1;PayPal
+2;Klarna
+3;Credit Card
+4;Bank Transfer
+5;Gift Card
+6;Apple Pay
+7;Google Pay

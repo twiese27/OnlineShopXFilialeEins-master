@@ -1,0 +1,201 @@
+CUSTOMER_ID;CUSTOMER_FIRST_NAME;CUSTOMER_LAST_NAME;CUSTOMER_EMAIL;CUSTOMER_GENDER;CUSTOMER_BIRTH_DATE;ADDRESS_ID;COUNTRY;CITY;POSTCODE;STREET;HOUSE_NUMBER;ADDITIONAL_ADDRESS_INFORMATION;TYPE
+1;Lukas;MÃ¼ller;lukas.mueller@ibs-ol.de;m;1985-04-12 00:00:00;38;Deutschland;Oldenburg;;Ziegelhofstraße;2;;billing
+1;Lukas;MÃ¼ller;lukas.mueller@ibs-ol.de;m;1985-04-12 00:00:00;138;Deutschland;Oldenburg;26121;Ziegelhofstraße;2;;delivery
+2;Sophia;Schmidt;sophia.schmidt@ibs-ol.de;w;1992-07-19 00:00:00;39;Deutschland;Oldenburg;;Damm;15;;billing
+2;Sophia;Schmidt;sophia.schmidt@ibs-ol.de;w;1992-07-19 00:00:00;139;Deutschland;Oldenburg;26123;Damm;15;;delivery
+3;Maximilian;Weber;maximilian.weber@ibs-ol.de;m;1978-09-23 00:00:00;40;Deutschland;Oldenburg;;Mühlenstraße;8;;billing
+3;Maximilian;Weber;maximilian.weber@ibs-ol.de;m;1978-09-23 00:00:00;140;Deutschland;Oldenburg;26125;Mühlenstraße;8;;delivery
+4;Emilia;Fischer;emilia.fischer@ibs-ol.de;w;1989-11-03 00:00:00;41;Deutschland;Oldenburg;;Wallstraße;21;;billing
+4;Emilia;Fischer;emilia.fischer@ibs-ol.de;w;1989-11-03 00:00:00;141;Deutschland;Oldenburg;26127;Wallstraße;21;;delivery
+5;Paul;Wagner;paul.wagner@ibs-ol.de;m;1965-02-14 00:00:00;42;Deutschland;Oldenburg;;Huntestraße;33;;billing
+5;Paul;Wagner;paul.wagner@ibs-ol.de;m;1965-02-14 00:00:00;142;Deutschland;Oldenburg;26129;Huntestraße;33;;delivery
+6;Hannah;Becker;hannah.becker@ibs-ol.de;w;1995-08-25 00:00:00;43;Deutschland;Oldenburg;26121;Peterstraße;7;;billing
+6;Hannah;Becker;hannah.becker@ibs-ol.de;w;1995-08-25 00:00:00;143;Deutschland;Oldenburg;26121;Peterstraße;7;;delivery
+7;Felix;Hoffmann;felix.hoffmann@ibs-ol.de;m;1983-12-05 00:00:00;44;Deutschland;Oldenburg;26123;Kurwickstraße;12;;billing
+7;Felix;Hoffmann;felix.hoffmann@ibs-ol.de;m;1983-12-05 00:00:00;144;Deutschland;Oldenburg;26123;Kurwickstraße;12;;delivery
+8;Mia;Schneider;mia.schneider@ibs-ol.de;w;2001-03-17 00:00:00;45;Deutschland;Oldenburg;26125;Lindenallee;19;;billing
+8;Mia;Schneider;mia.schneider@ibs-ol.de;w;2001-03-17 00:00:00;145;Deutschland;Oldenburg;26125;Lindenallee;19;;delivery
+9;David;SchÃ¤fer;david.schaefer@ibs-ol.de;m;1971-10-10 00:00:00;46;Deutschland;Oldenburg;26127;Eichenstraße;28;;billing
+9;David;SchÃ¤fer;david.schaefer@ibs-ol.de;m;1971-10-10 00:00:00;146;Deutschland;Oldenburg;26127;Eichenstraße;28;;delivery
+10;Lea;Neumann;lea.neumann@ibs-ol.de;w;1990-06-29 00:00:00;47;Deutschland;Oldenburg;26129;Birkenweg;36;;billing
+10;Lea;Neumann;lea.neumann@ibs-ol.de;w;1990-06-29 00:00:00;147;Deutschland;Oldenburg;26129;Birkenweg;36;;delivery
+11;Jonas;Koch;jonas.koch@ibs-ol.de;m;1975-05-12 00:00:00;48;Deutschland;Bad Zwischenahn;26160;Seestraße;5;;billing
+11;Jonas;Koch;jonas.koch@ibs-ol.de;m;1975-05-12 00:00:00;148;Deutschland;Bad Zwischenahn;26160;Seestraße;5;;delivery
+12;Emma;Bauer;emma.bauer@ibs-ol.de;w;1988-08-08 00:00:00;49;Deutschland;Rastede;26180;Bahnhofstraße;10;;billing
+12;Emma;Bauer;emma.bauer@ibs-ol.de;w;1988-08-08 00:00:00;149;Deutschland;Rastede;26180;Bahnhofstraße;10;;delivery
+13;Elias;Richter;elias.richter@ibs-ol.de;m;1960-12-22 00:00:00;50;Deutschland;Wardenburg;26203;Oldenburger Straße;15;;billing
+13;Elias;Richter;elias.richter@ibs-ol.de;m;1960-12-22 00:00:00;150;Deutschland;Wardenburg;26203;Oldenburger Straße;15;;delivery
+14;Marie;Winkler;marie.winkler@ibs-ol.de;w;1993-01-02 00:00:00;51;Deutschland;Wiefelstede;26215;Hauptstraße;22;;billing
+14;Marie;Winkler;marie.winkler@ibs-ol.de;w;1993-01-02 00:00:00;151;Deutschland;Wiefelstede;26215;Hauptstraße;22;;delivery
+15;Benjamin;Schulz;benjamin.schulz@ibs-ol.de;d;1987-04-14 00:00:00;52;Deutschland;Edewecht;26188;Hauptstraße;30;;billing
+15;Benjamin;Schulz;benjamin.schulz@ibs-ol.de;d;1987-04-14 00:00:00;152;Deutschland;Edewecht;26188;Hauptstraße;30;;delivery
+16;Laura;Schmidt;laura.schmidt@ibs-ol.de;w;1996-11-18 00:00:00;53;Deutschland;Bremen;28195;Sögestraße;33;;billing
+16;Laura;Schmidt;laura.schmidt@ibs-ol.de;w;1996-11-18 00:00:00;153;Deutschland;Bremen;28195;Sögestraße;33;;delivery
+17;Niklas;Klein;niklas.klein@ibs-ol.de;m;1991-03-20 00:00:00;54;Deutschland;Hannover;30159;Georgstraße;20;;billing
+17;Niklas;Klein;niklas.klein@ibs-ol.de;m;1991-03-20 00:00:00;154;Deutschland;Hannover;30159;Georgstraße;20;;delivery
+18;Anna;SchÃ¤fer;anna.schaefer@ibs-ol.de;w;1999-07-01 00:00:00;55;Deutschland;Oldenburg;26121;Poststraße;41;;billing
+18;Anna;SchÃ¤fer;anna.schaefer@ibs-ol.de;w;1999-07-01 00:00:00;155;Deutschland;Oldenburg;26121;Poststraße;41;;delivery
+19;Tom;Mayer;tom.mayer@ibs-ol.de;m;1970-09-11 00:00:00;56;Deutschland;Oldenburg;26123;Ritterstraße;9;;billing
+19;Tom;Mayer;tom.mayer@ibs-ol.de;m;1970-09-11 00:00:00;156;Deutschland;Oldenburg;26123;Ritterstraße;9;;delivery
+20;Jana;BÃ¶hm;jana.boehm@ibs-ol.de;w;1982-10-05 00:00:00;57;Deutschland;Oldenburg;26125;Theaterwall;17;;billing
+20;Jana;BÃ¶hm;jana.boehm@ibs-ol.de;w;1982-10-05 00:00:00;157;Deutschland;Oldenburg;26125;Theaterwall;17;;delivery
+21;Leon;Haas;leon.haas@ibs-ol.de;m;1968-06-18 00:00:00;58;Deutschland;Oldenburg;26127;Lambertistraße;23;;billing
+21;Leon;Haas;leon.haas@ibs-ol.de;m;1968-06-18 00:00:00;158;Deutschland;Oldenburg;26127;Lambertistraße;23;;delivery
+22;Lara;Seidel;lara.seidel@ibs-ol.de;w;1997-12-30 00:00:00;59;Deutschland;Oldenburg;26129;Gaststraße;35;;billing
+22;Lara;Seidel;lara.seidel@ibs-ol.de;w;1997-12-30 00:00:00;159;Deutschland;Oldenburg;26129;Gaststraße;35;;delivery
+23;Tim;Dietrich;tim.dietrich@ibs-ol.de;m;1986-02-09 00:00:00;60;Deutschland;Oldenburg;26121;Mottenstraße;14;;billing
+23;Tim;Dietrich;tim.dietrich@ibs-ol.de;m;1986-02-09 00:00:00;160;Deutschland;Oldenburg;26121;Mottenstraße;14;;delivery
+24;Julia;Kunz;julia.kunz@ibs-ol.de;w;1994-04-13 00:00:00;61;Deutschland;Oldenburg;26123;Bergstraße;26;;billing
+24;Julia;Kunz;julia.kunz@ibs-ol.de;w;1994-04-13 00:00:00;161;Deutschland;Oldenburg;26123;Bergstraße;26;;delivery
+25;Philipp;Wolff;philipp.wolff@ibs-ol.de;m;1977-11-27 00:00:00;62;Deutschland;Oldenburg;26125;Friedensplatz;8;;billing
+25;Philipp;Wolff;philipp.wolff@ibs-ol.de;m;1977-11-27 00:00:00;162;Deutschland;Oldenburg;26125;Friedensplatz;8;;delivery
+26;Sara;Lange;sara.lange@ibs-ol.de;w;2000-05-03 00:00:00;63;Deutschland;Oldenburg;26127;Herbartgang;3;;billing
+26;Sara;Lange;sara.lange@ibs-ol.de;w;2000-05-03 00:00:00;163;Deutschland;Oldenburg;26127;Herbartgang;3;;delivery
+27;Tobias;Hartmann;tobias.hartmann@ibs-ol.de;d;1955-08-12 00:00:00;64;Deutschland;Oldenburg;26129;Julius-Mosen-Platz;11;;billing
+27;Tobias;Hartmann;tobias.hartmann@ibs-ol.de;d;1955-08-12 00:00:00;164;Deutschland;Oldenburg;26129;Julius-Mosen-Platz;11;;delivery
+28;Clara;Vogel;clara.vogel@ibs-ol.de;w;1998-09-16 00:00:00;65;Deutschland;Bad Zwischenahn;26160;Lange Straße;18;;billing
+28;Clara;Vogel;clara.vogel@ibs-ol.de;w;1998-09-16 00:00:00;165;Deutschland;Bad Zwischenahn;26160;Lange Straße;18;;delivery
+29;Julian;Schuster;julian.schuster@ibs-ol.de;m;1972-06-26 00:00:00;66;Deutschland;Rastede;26180;Oldenburger Straße;7;;billing
+29;Julian;Schuster;julian.schuster@ibs-ol.de;m;1972-06-26 00:00:00;166;Deutschland;Rastede;26180;Oldenburger Straße;7;;delivery
+30;Nina;Heinrich;nina.heinrich@ibs-ol.de;w;1991-11-22 00:00:00;67;Deutschland;Wardenburg;26203;Friedrichstraße;22;;billing
+30;Nina;Heinrich;nina.heinrich@ibs-ol.de;w;1991-11-22 00:00:00;167;Deutschland;Wardenburg;26203;Friedrichstraße;22;;delivery
+31;Fabian;Brandt;fabian.brandt@ibs-ol.de;m;1966-03-14 00:00:00;68;Deutschland;Wiefelstede;26215;Petkumer Straße;13;;billing
+31;Fabian;Brandt;fabian.brandt@ibs-ol.de;m;1966-03-14 00:00:00;168;Deutschland;Wiefelstede;26215;Petkumer Straße;13;;delivery
+32;Melanie;Busch;melanie.busch@ibs-ol.de;w;1989-12-28 00:00:00;69;Deutschland;Edewecht;26188;Holljestraße;9;;billing
+32;Melanie;Busch;melanie.busch@ibs-ol.de;w;1989-12-28 00:00:00;169;Deutschland;Edewecht;26188;Holljestraße;9;;delivery
+33;Kevin;KÃ¶nig;kevin.koenig@ibs-ol.de;m;1979-02-15 00:00:00;70;Deutschland;Hamburg;20354;Jungfernstieg;30;;billing
+33;Kevin;KÃ¶nig;kevin.koenig@ibs-ol.de;m;1979-02-15 00:00:00;170;Deutschland;Hamburg;20354;Jungfernstieg;30;;delivery
+34;Lisa;Menzel;lisa.menzel@ibs-ol.de;w;1995-07-07 00:00:00;71;Deutschland;Berlin;10117;Unter den Linden;26;;billing
+34;Lisa;Menzel;lisa.menzel@ibs-ol.de;w;1995-07-07 00:00:00;171;Deutschland;Berlin;10117;Unter den Linden;26;;delivery
+35;Christian;Otto;christian.otto@ibs-ol.de;m;1963-05-30 00:00:00;72;Deutschland;Oldenburg;26121;Staulinie;5;;billing
+35;Christian;Otto;christian.otto@ibs-ol.de;m;1963-05-30 00:00:00;172;Deutschland;Oldenburg;26121;Staulinie;5;;delivery
+36;Vanessa;Kraus;vanessa.kraus@ibs-ol.de;w;1981-09-18 00:00:00;73;Deutschland;Oldenburg;26123;Scheideweg;18;;billing
+36;Vanessa;Kraus;vanessa.kraus@ibs-ol.de;w;1981-09-18 00:00:00;173;Deutschland;Oldenburg;26123;Scheideweg;18;;delivery
+37;Noah;Wirth;noah.wirth@ibs-ol.de;m;1984-11-09 00:00:00;74;Deutschland;Oldenburg;26125;Heiligengeistwall;12;;billing
+37;Noah;Wirth;noah.wirth@ibs-ol.de;m;1984-11-09 00:00:00;174;Deutschland;Oldenburg;26125;Heiligengeistwall;12;;delivery
+38;Lena;KrÃ¼ger;lena.krueger@ibs-ol.de;w;2002-02-25 00:00:00;75;Deutschland;Oldenburg;26127;Industriestraße;37;;billing
+38;Lena;KrÃ¼ger;lena.krueger@ibs-ol.de;w;2002-02-25 00:00:00;175;Deutschland;Oldenburg;26127;Industriestraße;37;Hinterhaus;delivery
+39;Samuel;Maurer;samuel.maurer@ibs-ol.de;m;1976-07-14 00:00:00;76;Deutschland;Oldenburg;26129;Nadorster Straße;55;;billing
+39;Samuel;Maurer;samuel.maurer@ibs-ol.de;m;1976-07-14 00:00:00;176;Deutschland;Oldenburg;26129;Nadorster Straße;55;;delivery
+40;Marlene;Heinz;marlene.heinz@ibs-ol.de;w;1983-08-19 00:00:00;77;Deutschland;Oldenburg;26121;Melkbrink;9;;billing
+40;Marlene;Heinz;marlene.heinz@ibs-ol.de;w;1983-08-19 00:00:00;177;Deutschland;Oldenburg;26121;Melkbrink;9;Apartment 3b;delivery
+41;Daniel;Schuster;daniel.schuster@ibs-ol.de;m;1952-12-03 00:00:00;78;Deutschland;Oldenburg;26123;Ehnernstraße;14;;billing
+41;Daniel;Schuster;daniel.schuster@ibs-ol.de;m;1952-12-03 00:00:00;178;Deutschland;Oldenburg;26123;Ehnernstraße;14;;delivery
+42;Johanna;Ebert;johanna.ebert@ibs-ol.de;w;1990-03-29 00:00:00;79;Deutschland;Oldenburg;26125;Stedinger Straße;28;;billing
+42;Johanna;Ebert;johanna.ebert@ibs-ol.de;w;1990-03-29 00:00:00;179;Deutschland;Oldenburg;26125;Stedinger Straße;28;2. OG rechts;delivery
+43;Alexander;Meier;alexander.meier@ibs-ol.de;m;1988-05-21 00:00:00;80;Deutschland;Oldenburg;26127;Klingenbergstraße;7;;billing
+43;Alexander;Meier;alexander.meier@ibs-ol.de;m;1988-05-21 00:00:00;180;Deutschland;Oldenburg;26127;Klingenbergstraße;7;;delivery
+44;Isabella;Lindner;isabella.lindner@ibs-ol.de;w;1973-01-12 00:00:00;81;Deutschland;Oldenburg;26129;Brommystraße;22;;billing
+44;Isabella;Lindner;isabella.lindner@ibs-ol.de;w;1973-01-12 00:00:00;181;Deutschland;Oldenburg;26129;Brommystraße;22;Erdgeschoss;delivery
+45;Stefan;Hermann;stefan.hermann@ibs-ol.de;m;1978-08-04 00:00:00;82;Deutschland;Bad Zwischenahn;26160;Peterstraße;11;;billing
+45;Stefan;Hermann;stefan.hermann@ibs-ol.de;m;1978-08-04 00:00:00;182;Deutschland;Bad Zwischenahn;26160;Peterstraße;11;;delivery
+46;Claudia;Werner;claudia.werner@ibs-ol.de;d;1992-06-17 00:00:00;83;Deutschland;Rastede;26180;Mühlenstraße;9;;billing
+46;Claudia;Werner;claudia.werner@ibs-ol.de;d;1992-06-17 00:00:00;183;Deutschland;Rastede;26180;Mühlenstraße;9;Hinterhof;delivery
+47;Marvin;Friedrich;marvin.friedrich@ibs-ol.de;m;1975-09-22 00:00:00;84;Deutschland;Wardenburg;26203;Akazienstraße;16;;billing
+47;Marvin;Friedrich;marvin.friedrich@ibs-ol.de;m;1975-09-22 00:00:00;184;Deutschland;Wardenburg;26203;Akazienstraße;16;;delivery
+48;Helena;Frank;helena.frank@ibs-ol.de;w;1997-02-06 00:00:00;85;Deutschland;Wiefelstede;26215;Oldenburger Straße;4;;billing
+48;Helena;Frank;helena.frank@ibs-ol.de;w;1997-02-06 00:00:00;185;Deutschland;Wiefelstede;26215;Am Markt;4;Laden links;delivery
+49;Oliver;Schwarz;oliver.schwarz@ibs-ol.de;m;1980-10-11 00:00:00;86;Deutschland;Edewecht;26188;Rathausstraße;20;;billing
+49;Oliver;Schwarz;oliver.schwarz@ibs-ol.de;m;1980-10-11 00:00:00;186;Deutschland;Edewecht;26188;Rathausstraße;20;;delivery
+50;Franziska;JÃ¤ger;franziska.jaeger@ibs-ol.de;w;1987-07-30 00:00:00;87;Deutschland;München;80331;Marienplatz;8;;billing
+50;Franziska;JÃ¤ger;franziska.jaeger@ibs-ol.de;w;1987-07-30 00:00:00;187;Deutschland;München;80331;Marienplatz;8;4. Etage;delivery
+51;Leonard;MÃ¶ller;leonard.moeller@ibs-ol.de;m;1967-11-25 00:00:00;88;Deutschland;Frankfurt;60313;Römerberg;23;;billing
+51;Leonard;MÃ¶ller;leonard.moeller@ibs-ol.de;m;1967-11-25 00:00:00;188;Deutschland;Frankfurt;60313;Römerberg;23;;delivery
+52;Theresa;Lehmann;theresa.lehmann@ibs-ol.de;w;2010-03-08 00:00:00;89;Deutschland;Oldenburg;26121;Roonstraße;15;;billing
+52;Theresa;Lehmann;theresa.lehmann@ibs-ol.de;w;2010-03-08 00:00:00;189;Deutschland;Oldenburg;26121;Roonstraße;15;Dachgeschoss;delivery
+53;Matthias;Sauer;matthias.sauer@ibs-ol.de;m;1981-04-02 00:00:00;90;Deutschland;Oldenburg;26123;Auguststraße;31;;billing
+53;Matthias;Sauer;matthias.sauer@ibs-ol.de;m;1981-04-02 00:00:00;190;Deutschland;Oldenburg;26123;Auguststraße;31;;delivery
+54;Lisa-Marie;Roth;lisamarie.roth@ibs-ol.de;w;1998-01-16 00:00:00;91;Deutschland;Oldenburg;26125;Donnerschweer Straße;81;;billing
+54;Lisa-Marie;Roth;lisamarie.roth@ibs-ol.de;w;1998-01-16 00:00:00;191;Deutschland;Oldenburg;26125;Donnerschweer Straße;81;Seiteneingang;delivery
+55;Jan;Mayer;jan.mayer@ibs-ol.de;m;1979-08-07 00:00:00;92;Deutschland;Oldenburg;26127;Bremer Heerstraße;100;;billing
+55;Jan;Mayer;jan.mayer@ibs-ol.de;m;1979-08-07 00:00:00;192;Deutschland;Oldenburg;26127;Bremer Heerstraße;100;;delivery
+56;Victoria;Huber;victoria.huber@ibs-ol.de;w;2000-10-20 00:00:00;93;Deutschland;Oldenburg;26129;Nadorster Straße;112;;billing
+56;Victoria;Huber;victoria.huber@ibs-ol.de;w;2000-10-20 00:00:00;193;Deutschland;Oldenburg;26129;Nadorster Straße;112;Gebäude B;delivery
+57;Simon;Peters;simon.peters@ibs-ol.de;m;1982-12-15 00:00:00;94;Deutschland;Oldenburg;26121;Haareneschstraße;25;;billing
+57;Simon;Peters;simon.peters@ibs-ol.de;m;1982-12-15 00:00:00;194;Deutschland;Oldenburg;26121;Haareneschstraße;25;;delivery
+58;Nadine;Scholz;nadine.scholz@ibs-ol.de;w;1995-09-11 00:00:00;95;Deutschland;Oldenburg;26123;Baumstraße;7;;billing
+58;Nadine;Scholz;nadine.scholz@ibs-ol.de;w;1995-09-11 00:00:00;195;Deutschland;Oldenburg;26123;Baumstraße;7;Souterrain;delivery
+59;Johannes;Reuter;johannes.reuter@ibs-ol.de;m;1957-05-19 00:00:00;96;Deutschland;Oldenburg;26125;Eichenstraße;19;;billing
+59;Johannes;Reuter;johannes.reuter@ibs-ol.de;m;1957-05-19 00:00:00;196;Deutschland;Oldenburg;26125;Eichenstraße;19;;delivery
+60;Anja;Braun;anja.braun@ibs-ol.de;w;1980-06-25 00:00:00;97;Deutschland;Oldenburg;26127;Brookweg;33;;billing
+60;Anja;Braun;anja.braun@ibs-ol.de;w;1980-06-25 00:00:00;197;Deutschland;Oldenburg;26127;Brookweg;33;Gartenhaus;delivery
+61;Eric;Jung;eric.jung@ibs-ol.de;m;1974-11-30 00:00:00;98;Deutschland;Oldenburg;26129;Alexanderstraße;44;;billing
+61;Eric;Jung;eric.jung@ibs-ol.de;m;1974-11-30 00:00:00;198;Deutschland;Oldenburg;26129;Alexanderstraße;44;;delivery
+62;Maria;Fuchs;maria.fuchs@ibs-ol.de;w;1986-02-22 00:00:00;99;Deutschland;Bad Zwischenahn;26160;Elmendorfer Straße;27;;billing
+62;Maria;Fuchs;maria.fuchs@ibs-ol.de;w;1986-02-22 00:00:00;199;Deutschland;Bad Zwischenahn;26160;Elmendorfer Straße;27;1. OG;delivery
+63;Patrick;Stein;patrick.stein@ibs-ol.de;m;1999-03-05 00:00:00;100;Deutschland;Rastede;26180;Raiffeisenstraße;14;;billing
+63;Patrick;Stein;patrick.stein@ibs-ol.de;m;1999-03-05 00:00:00;200;Deutschland;Rastede;26180;Raiffeisenstraße;14;;delivery
+64;Carolin;Vogt;carolin.vogt@ibs-ol.de;w;1994-07-13 00:00:00;101;Deutschland;Wardenburg;26203;Hundsmühler Straße;38;;billing
+64;Carolin;Vogt;carolin.vogt@ibs-ol.de;w;1994-07-13 00:00:00;201;Deutschland;Wardenburg;26203;Hundsmühler Straße;38;Nebengebäude;delivery
+65;Florian;KÃ¼hn;florian.kuehn@ibs-ol.de;m;1969-10-21 00:00:00;102;Deutschland;Wiefelstede;26215;Oldenburger Straße;21;;billing
+65;Florian;KÃ¼hn;florian.kuehn@ibs-ol.de;m;1969-10-21 00:00:00;202;Deutschland;Wiefelstede;26215;Oldenburger Straße;21;;delivery
+66;Eva;Pohl;eva.pohl@ibs-ol.de;w;1991-12-18 00:00:00;103;Deutschland;Edewecht;26188;Hauptstraße;55;;billing
+66;Eva;Pohl;eva.pohl@ibs-ol.de;w;1991-12-18 00:00:00;203;Deutschland;Edewecht;26188;Hauptstraße;55;Apartment 12;delivery
+67;Christopher;Arnold;christopher.arnold@ibs-ol.de;m;1985-01-01 00:00:00;104;Deutschland;Köln;50667;Schildergasse;114;;billing
+67;Christopher;Arnold;christopher.arnold@ibs-ol.de;m;1985-01-01 00:00:00;204;Deutschland;Köln;50667;Schildergasse;114;Rückgebäude;delivery
+68;Katharina;Schwarz;katharina.schwarz@ibs-ol.de;w;1989-05-27 00:00:00;105;Deutschland;Düsseldorf;40213;Königsallee;28;;billing
+68;Katharina;Schwarz;katharina.schwarz@ibs-ol.de;w;1989-05-27 00:00:00;205;Deutschland;Düsseldorf;40213;Königsallee;28;;delivery
+69;Ralf;Haas;ralf.haas@ibs-ol.de;m;1960-08-16 00:00:00;106;Deutschland;Oldenburg;26121;Bahnhofstraße;23;;billing
+69;Ralf;Haas;ralf.haas@ibs-ol.de;m;1960-08-16 00:00:00;206;Deutschland;Oldenburg;26121;Bahnhofstraße;23;3. OG links;delivery
+70;Jessica;Lorenz;jessica.lorenz@ibs-ol.de;w;2004-09-04 00:00:00;107;Deutschland;Oldenburg;26123;Markt;7;;billing
+70;Jessica;Lorenz;jessica.lorenz@ibs-ol.de;w;2004-09-04 00:00:00;207;Deutschland;Oldenburg;26123;Markt;7;;delivery
+71;Robert;Winter;robert.winter@ibs-ol.de;m;1954-11-24 00:00:00;108;Deutschland;Oldenburg;26125;Donnerschweer Straße;4;;billing
+71;Robert;Winter;robert.winter@ibs-ol.de;m;1954-11-24 00:00:00;208;Deutschland;Oldenburg;26125;Lappan;4;Ladenlokal;delivery
+72;Sandra;Berg;sandra.berg@ibs-ol.de;w;1971-07-20 00:00:00;109;Deutschland;Oldenburg;26127;Hopfenstraße;12;;billing
+72;Sandra;Berg;sandra.berg@ibs-ol.de;w;1971-07-20 00:00:00;209;Deutschland;Oldenburg;26127;Hopfenstraße;12;;delivery
+73;Markus;Seitz;markus.seitz@ibs-ol.de;m;1978-03-01 00:00:00;110;Deutschland;Oldenburg;26129;Friedlandstraße;39;;billing
+73;Markus;Seitz;markus.seitz@ibs-ol.de;m;1978-03-01 00:00:00;210;Deutschland;Oldenburg;26129;Friedlandstraße;39;Hintereingang;delivery
+74;Tanja;GÃ¶tz;tanja.goetz@ibs-ol.de;w;1993-04-07 00:00:00;111;Deutschland;Oldenburg;26121;Stautorstraße;8;;billing
+74;Tanja;GÃ¶tz;tanja.goetz@ibs-ol.de;w;1993-04-07 00:00:00;211;Deutschland;Oldenburg;26121;Stautorstraße;8;;delivery
+75;Dirk;Lang;dirk.lang@ibs-ol.de;m;1980-10-14 00:00:00;112;Deutschland;Oldenburg;26123;Kleine Kirchstraße;2;;billing
+75;Dirk;Lang;dirk.lang@ibs-ol.de;m;1980-10-14 00:00:00;212;Deutschland;Oldenburg;26123;Kleine Kirchstraße;2;1. OG;delivery
+76;Antonia;Witt;antonia.witt@ibs-ol.de;w;1996-09-12 00:00:00;113;Deutschland;Oldenburg;26125;Lindhooper Straße;17;;billing
+76;Antonia;Witt;antonia.witt@ibs-ol.de;w;1996-09-12 00:00:00;213;Deutschland;Oldenburg;26125;Lindhooper Straße;17;;delivery
+77;Rene;Schulze;rene.schulze@ibs-ol.de;m;1977-01-28 00:00:00;114;Deutschland;Oldenburg;26127;Brüderstraße;5;;billing
+77;Rene;Schulze;rene.schulze@ibs-ol.de;m;1977-01-28 00:00:00;214;Deutschland;Oldenburg;26127;Brüderstraße;5;Dachgeschoss;delivery
+78;Ines;Huber;ines.huber@ibs-ol.de;w;1997-12-31 00:00:00;115;Deutschland;Oldenburg;26129;Schützenweg;30;;billing
+78;Ines;Huber;ines.huber@ibs-ol.de;w;1997-12-31 00:00:00;215;Deutschland;Oldenburg;26129;Schützenweg;30;;delivery
+79;Thomas;Schmidt;thomas.schmidt@ibs-ol.de;m;1972-11-04 00:00:00;116;Deutschland;Bad Zwischenahn;26160;Zum Rosenteich;3;;billing
+79;Thomas;Schmidt;thomas.schmidt@ibs-ol.de;m;1972-11-04 00:00:00;216;Deutschland;Bad Zwischenahn;26160;Zum Rosenteich;3;Bungalow;delivery
+80;Kathrin;Voigt;kathrin.voigt@ibs-ol.de;w;1981-05-22 00:00:00;117;Deutschland;Rastede;26180;Feldbreite;19;;billing
+80;Kathrin;Voigt;kathrin.voigt@ibs-ol.de;w;1981-05-22 00:00:00;217;Deutschland;Rastede;26180;Feldbreite;19;;delivery
+81;Michael;Hahn;michael.hahn@ibs-ol.de;m;1965-03-07 00:00:00;118;Deutschland;Wardenburg;26203;Patenbergsweg;6;;billing
+81;Michael;Hahn;michael.hahn@ibs-ol.de;m;1965-03-07 00:00:00;218;Deutschland;Wardenburg;26203;Patenbergsweg;6;Hofeinfahrt;delivery
+82;Sabine;Ludwig;sabine.ludwig@ibs-ol.de;w;1982-08-29 00:00:00;119;Deutschland;Wiefelstede;26215;Bremerstraße;11;;billing
+82;Sabine;Ludwig;sabine.ludwig@ibs-ol.de;w;1982-08-29 00:00:00;219;Deutschland;Wiefelstede;26215;Bremerstraße;11;;delivery
+83;Sebastian;Friedrich;sebastian.friedrich@ibs-ol.de;m;1983-07-15 00:00:00;120;Deutschland;Edewecht;26188;Oldenburger Straße;42;;billing
+83;Sebastian;Friedrich;sebastian.friedrich@ibs-ol.de;m;1983-07-15 00:00:00;220;Deutschland;Edewecht;26188;Oldenburger Straße;42;Apartment 5;delivery
+84;Julia;Neumann;julia.neumann@ibs-ol.de;w;1999-10-03 00:00:00;221;Deutschland;Stuttgart;70173;Königstraße;1b;Büroetage 4;delivery
+84;Julia;Neumann;julia.neumann@ibs-ol.de;w;1999-10-03 00:00:00;121;Deutschland;Stuttgart;70173;Hauptstraße;4;;billing
+85;Timo;Stein;timo.stein@ibs-ol.de;m;1951-02-10 00:00:00;222;Deutschland;Dresden;01067;Prager Straße;15;;delivery
+85;Timo;Stein;timo.stein@ibs-ol.de;m;1951-02-10 00:00:00;122;Deutschland;Dresden;01067;Prager Straße;15;;billing
+86;Rebecca;Hoffmann;rebecca.hoffmann@ibs-ol.de;w;1992-12-06 00:00:00;223;Deutschland;Oldenburg;26121;Heiligengeiststraße;10;1. OG;delivery
+86;Rebecca;Hoffmann;rebecca.hoffmann@ibs-ol.de;w;1992-12-06 00:00:00;123;Deutschland;Oldenburg;26121;Heiligengeiststraße;10;1. OG;billing
+87;JÃ¼rgen;Scholz;juergen.scholz@ibs-ol.de;m;1966-01-29 00:00:00;224;Deutschland;Oldenburg;26123;Lange Straße;49;Hinterhof;delivery
+87;JÃ¼rgen;Scholz;juergen.scholz@ibs-ol.de;m;1966-01-29 00:00:00;124;Deutschland;Oldenburg;26123;Lange Straße;49;;billing
+88;Stefanie;Hartmann;stefanie.hartmann@ibs-ol.de;w;2001-02-14 00:00:00;125;Deutschland;Oldenburg;26125;Ammergaustraße;22;;billing
+88;Stefanie;Hartmann;stefanie.hartmann@ibs-ol.de;w;2001-02-14 00:00:00;225;Deutschland;Oldenburg;26125;Ammergaustraße;22;;delivery
+89;Tobias;Meier;tobias.meier@ibs-ol.de;m;1958-03-31 00:00:00;126;Deutschland;Oldenburg;26127;Alexanderstraße;65;;billing
+89;Tobias;Meier;tobias.meier@ibs-ol.de;m;1958-03-31 00:00:00;226;Deutschland;Oldenburg;26127;Alexanderstraße;65;2. OG rechts;delivery
+90;Andrea;Schmidt;andrea.schmidt@ibs-ol.de;w;1986-07-25 00:00:00;127;Deutschland;Oldenburg;26129;Butjadinger Straße;14;;billing
+90;Andrea;Schmidt;andrea.schmidt@ibs-ol.de;w;1986-07-25 00:00:00;227;Deutschland;Oldenburg;26129;Butjadinger Straße;14;;delivery
+91;Manuel;Jung;manuel.jung@ibs-ol.de;m;1970-09-06 00:00:00;228;Deutschland;Oldenburg;26121;Mozartstraße;7;Gartenwohnung;delivery
+91;Manuel;Jung;manuel.jung@ibs-ol.de;m;1970-09-06 00:00:00;128;Deutschland;Oldenburg;26121;Mozartstraße;7;;billing
+92;Isabel;Hoffmann;isabel.hoffmann@ibs-ol.de;w;2002-11-30 00:00:00;229;Deutschland;Oldenburg;26123;Bachstraße;19;;delivery
+92;Isabel;Hoffmann;isabel.hoffmann@ibs-ol.de;w;2002-11-30 00:00:00;129;Deutschland;Oldenburg;26123;Bachstraße;19;;billing
+93;Christian;Keller;christian.keller@ibs-ol.de;m;1950-06-11 00:00:00;130;Deutschland;Oldenburg;26125;Beethovenstraße;31;;billing
+93;Christian;Keller;christian.keller@ibs-ol.de;m;1950-06-11 00:00:00;230;Deutschland;Oldenburg;26125;Beethovenstraße;31;Seitenflügel;delivery
+94;Veronika;Weber;veronika.weber@ibs-ol.de;w;1991-04-19 00:00:00;131;Deutschland;Oldenburg;26127;Schubertstraße;8;;billing
+94;Veronika;Weber;veronika.weber@ibs-ol.de;w;1991-04-19 00:00:00;231;Deutschland;Oldenburg;26127;Schubertstraße;8;;delivery
+95;Andreas;Zimmermann;andreas.zimmermann@ibs-ol.de;m;1964-01-25 00:00:00;232;Deutschland;Oldenburg;26129;Händelstraße;25;Dachgeschoss;delivery
+95;Andreas;Zimmermann;andreas.zimmermann@ibs-ol.de;m;1964-01-25 00:00:00;132;Deutschland;Oldenburg;26129;Händelstraße;25;;billing
+96;Sarah;Becker;sarah.becker@ibs-ol.de;w;1983-09-21 00:00:00;233;Deutschland;Bad Zwischenahn;26160;Gartenweg;12;;delivery
+96;Sarah;Becker;sarah.becker@ibs-ol.de;w;1983-09-21 00:00:00;133;Deutschland;Bad Zwischenahn;26160;Gartenweg;12;;billing
+97;Christopher;Roth;christopher.roth@ibs-ol.de;d;1973-12-13 00:00:00;234;Deutschland;Rastede;26180;Feldstraße;5;Nebengebäude;delivery
+97;Christopher;Roth;christopher.roth@ibs-ol.de;d;1973-12-13 00:00:00;134;Deutschland;Rastede;26180;Feldstraße;5;;billing
+98;Katja;Koch;katja.koch@ibs-ol.de;w;1994-08-09 00:00:00;235;Deutschland;Wardenburg;26203;Brookdamm;17;;delivery
+98;Katja;Koch;katja.koch@ibs-ol.de;w;1994-08-09 00:00:00;135;Deutschland;Wardenburg;26203;Brookdamm;17;;billing
+99;Frank;Sauer;frank.sauer@ibs-ol.de;m;1962-02-04 00:00:00;236;Deutschland;Wiefelstede;26215;Dohlenweg;9;Apartment 3;delivery
+99;Frank;Sauer;frank.sauer@ibs-ol.de;m;1962-02-04 00:00:00;136;Deutschland;Wiefelstede;26215;Dohlenweg;9;;billing
+100;Anna-Lena;Bach;annalena.bach@ibs-ol.de;w;2000-06-15 00:00:00;137;Deutschland;Edewecht;26188;Hauptstraße;28;;billing
+100;Anna-Lena;Bach;annalena.bach@ibs-ol.de;w;2000-06-15 00:00:00;237;Deutschland;Edewecht;26188;Industriestraße;28;Bürogebäude;delivery

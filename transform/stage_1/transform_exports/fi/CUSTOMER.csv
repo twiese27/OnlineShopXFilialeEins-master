@@ -1,0 +1,101 @@
+﻿CUSTOMER_ID;STREET;HOUSE_NUMBER;POSTAL_CODE;CITY;MIDDLE_NAME;LASTNAME;IBAN;BIRTH_DATE;CREATED_ON;EMAIL;COUNTRY;FORENAME
+1;Ziegelhofstraße;2;26121;Oldenburg;;MÃ¼ller;;1985-04-12 00:00:00;;lukas.mueller@ibs-ol.de;Germany;Lukas
+2;Damm;15;26123;Oldenburg;;Schmidt;;1992-07-19 00:00:00;;sophia.schmidt@ibs-ol.de;Germany;Sophia
+3;Mühlenstraße;8;26125;Oldenburg;;Weber;;1978-09-23 00:00:00;;maximilian.weber@ibs-ol.de;Germany;Maximilian
+4;Wallstraße;21;26127;Oldenburg;;Fischer;;1989-11-03 00:00:00;;emilia.fischer@ibs-ol.de;Germany;Emilia
+5;Huntestraße;33;26129;Oldenburg;;Wagner;;1965-02-14 00:00:00;;paul.wagner@ibs-ol.de;Germany;Paul
+6;Peterstraße;7;26121;Oldenburg;;Becker;;1995-08-25 00:00:00;;hannah.becker@ibs-ol.de;Germany;Hannah
+7;Kurwickstraße;12;26123;Oldenburg;;Hoffmann;;1983-12-05 00:00:00;;felix.hoffmann@ibs-ol.de;Germany;Felix
+8;Lindenallee;19;26125;Oldenburg;;Schneider;;2001-03-17 00:00:00;;mia.schneider@ibs-ol.de;Germany;Mia
+9;Eichenstraße;28;26127;Oldenburg;;SchÃ¤fer;;1971-10-10 00:00:00;;david.schaefer@ibs-ol.de;Germany;David
+10;Birkenweg;36;26129;Oldenburg;;Neumann;;1990-06-29 00:00:00;;lea.neumann@ibs-ol.de;Germany;Lea
+11;Seestraße;5;26160;Bad Zwischenahn;;Koch;;1975-05-12 00:00:00;;jonas.koch@ibs-ol.de;Germany;Jonas
+12;Bahnhofstraße;10;26180;Rastede;;Bauer;;1988-08-08 00:00:00;;emma.bauer@ibs-ol.de;Germany;Emma
+13;Oldenburger Straße;15;26203;Wardenburg;;Richter;;1960-12-22 00:00:00;;elias.richter@ibs-ol.de;Germany;Elias
+14;Hauptstraße;22;26215;Wiefelstede;;Winkler;;1993-01-02 00:00:00;;marie.winkler@ibs-ol.de;Germany;Marie
+15;Hauptstraße;30;26188;Edewecht;;Schulz;;1987-04-14 00:00:00;;benjamin.schulz@ibs-ol.de;Germany;Benjamin
+16;Sögestraße;33;28195;Bremen;;Schmidt;;1996-11-18 00:00:00;;laura.schmidt@ibs-ol.de;Germany;Laura
+17;Georgstraße;20;30159;Hannover;;Klein;;1991-03-20 00:00:00;;niklas.klein@ibs-ol.de;Germany;Niklas
+18;Poststraße;41;26121;Oldenburg;;SchÃ¤fer;;1999-07-01 00:00:00;;anna.schaefer@ibs-ol.de;Germany;Anna
+19;Ritterstraße;9;26123;Oldenburg;;Mayer;;1970-09-11 00:00:00;;tom.mayer@ibs-ol.de;Germany;Tom
+20;Theaterwall;17;26125;Oldenburg;;BÃ¶hm;;1982-10-05 00:00:00;;jana.boehm@ibs-ol.de;Germany;Jana
+21;Lambertistraße;23;26127;Oldenburg;;Haas;;1968-06-18 00:00:00;;leon.haas@ibs-ol.de;Germany;Leon
+22;Gaststraße;35;26129;Oldenburg;;Seidel;;1997-12-30 00:00:00;;lara.seidel@ibs-ol.de;Germany;Lara
+23;Mottenstraße;14;26121;Oldenburg;;Dietrich;;1986-02-09 00:00:00;;tim.dietrich@ibs-ol.de;Germany;Tim
+24;Bergstraße;26;26123;Oldenburg;;Kunz;;1994-04-13 00:00:00;;julia.kunz@ibs-ol.de;Germany;Julia
+25;Friedensplatz;8;26125;Oldenburg;;Wolff;;1977-11-27 00:00:00;;philipp.wolff@ibs-ol.de;Germany;Philipp
+26;Herbartgang;3;26127;Oldenburg;;Lange;;2000-05-03 00:00:00;;sara.lange@ibs-ol.de;Germany;Sara
+27;Julius-Mosen-Platz;11;26129;Oldenburg;;Hartmann;;1955-08-12 00:00:00;;tobias.hartmann@ibs-ol.de;Germany;Tobias
+28;Lange Straße;18;26160;Bad Zwischenahn;;Vogel;;1998-09-16 00:00:00;;clara.vogel@ibs-ol.de;Germany;Clara
+29;Oldenburger Straße;7;26180;Rastede;;Schuster;;1972-06-26 00:00:00;;julian.schuster@ibs-ol.de;Germany;Julian
+30;Friedrichstraße;22;26203;Wardenburg;;Heinrich;;1991-11-22 00:00:00;;nina.heinrich@ibs-ol.de;Germany;Nina
+31;Petkumer Straße;13;26215;Wiefelstede;;Brandt;;1966-03-14 00:00:00;;fabian.brandt@ibs-ol.de;Germany;Fabian
+32;Holljestraße;9;26188;Edewecht;;Busch;;1989-12-28 00:00:00;;melanie.busch@ibs-ol.de;Germany;Melanie
+33;Jungfernstieg;30;20354;Hamburg;;KÃ¶nig;;1979-02-15 00:00:00;;kevin.koenig@ibs-ol.de;Germany;Kevin
+34;Unter den Linden;26;10117;Berlin;;Menzel;;1995-07-07 00:00:00;;lisa.menzel@ibs-ol.de;Germany;Lisa
+35;Staulinie;5;26121;Oldenburg;;Otto;;1963-05-30 00:00:00;;christian.otto@ibs-ol.de;Germany;Christian
+36;Scheideweg;18;26123;Oldenburg;;Kraus;;1981-09-18 00:00:00;;vanessa.kraus@ibs-ol.de;Germany;Vanessa
+37;Heiligengeistwall;12;26125;Oldenburg;;Wirth;;1984-11-09 00:00:00;;noah.wirth@ibs-ol.de;Germany;Noah
+38;Industriestraße;37;26127;Oldenburg;;KrÃ¼ger;;2002-02-25 00:00:00;;lena.krueger@ibs-ol.de;Germany;Lena
+39;Nadorster Straße;55;26129;Oldenburg;;Maurer;;1976-07-14 00:00:00;;samuel.maurer@ibs-ol.de;Germany;Samuel
+40;Melkbrink;9;26121;Oldenburg;;Heinz;;1983-08-19 00:00:00;;marlene.heinz@ibs-ol.de;Germany;Marlene
+41;Ehnernstraße;14;26123;Oldenburg;;Schuster;;1952-12-03 00:00:00;;daniel.schuster@ibs-ol.de;Germany;Daniel
+42;Stedinger Straße;28;26125;Oldenburg;;Ebert;;1990-03-29 00:00:00;;johanna.ebert@ibs-ol.de;Germany;Johanna
+43;Klingenbergstraße;7;26127;Oldenburg;;Meier;;1988-05-21 00:00:00;;alexander.meier@ibs-ol.de;Germany;Alexander
+44;Brommystraße;22;26129;Oldenburg;;Lindner;;1973-01-12 00:00:00;;isabella.lindner@ibs-ol.de;Germany;Isabella
+45;Peterstraße;11;26160;Bad Zwischenahn;;Hermann;;1978-08-04 00:00:00;;stefan.hermann@ibs-ol.de;Germany;Stefan
+46;Mühlenstraße;9;26180;Rastede;;Werner;;1992-06-17 00:00:00;;claudia.werner@ibs-ol.de;Germany;Claudia
+47;Akazienstraße;16;26203;Wardenburg;;Friedrich;;1975-09-22 00:00:00;;marvin.friedrich@ibs-ol.de;Germany;Marvin
+48;Am Markt;4;26215;Wiefelstede;;Frank;;1997-02-06 00:00:00;;helena.frank@ibs-ol.de;Germany;Helena
+49;Rathausstraße;20;26188;Edewecht;;Schwarz;;1980-10-11 00:00:00;;oliver.schwarz@ibs-ol.de;Germany;Oliver
+50;Marienplatz;8;80331;München;;JÃ¤ger;;1987-07-30 00:00:00;;franziska.jaeger@ibs-ol.de;Germany;Franziska
+51;Römerberg;23;60313;Frankfurt;;MÃ¶ller;;1967-11-25 00:00:00;;leonard.moeller@ibs-ol.de;Germany;Leonard
+52;Roonstraße;15;26121;Oldenburg;;Lehmann;;2010-03-08 00:00:00;;theresa.lehmann@ibs-ol.de;Germany;Theresa
+53;Auguststraße;31;26123;Oldenburg;;Sauer;;1981-04-02 00:00:00;;matthias.sauer@ibs-ol.de;Germany;Matthias
+54;Donnerschweer Straße;81;26125;Oldenburg;;Roth;;1998-01-16 00:00:00;;lisamarie.roth@ibs-ol.de;Germany;Lisa-Marie
+55;Bremer Heerstraße;100;26127;Oldenburg;;Mayer;;1979-08-07 00:00:00;;jan.mayer@ibs-ol.de;Germany;Jan
+56;Nadorster Straße;112;26129;Oldenburg;;Huber;;2000-10-20 00:00:00;;victoria.huber@ibs-ol.de;Germany;Victoria
+57;Haareneschstraße;25;26121;Oldenburg;;Peters;;1982-12-15 00:00:00;;simon.peters@ibs-ol.de;Germany;Simon
+58;Baumstraße;7;26123;Oldenburg;;Scholz;;1995-09-11 00:00:00;;nadine.scholz@ibs-ol.de;Germany;Nadine
+59;Eichenstraße;19;26125;Oldenburg;;Reuter;;1957-05-19 00:00:00;;johannes.reuter@ibs-ol.de;Germany;Johannes
+60;Brookweg;33;26127;Oldenburg;;Braun;;1980-06-25 00:00:00;;anja.braun@ibs-ol.de;Germany;Anja
+61;Alexanderstraße;44;26129;Oldenburg;;Jung;;1974-11-30 00:00:00;;eric.jung@ibs-ol.de;Germany;Eric
+62;Elmendorfer Straße;27;26160;Bad Zwischenahn;;Fuchs;;1986-02-22 00:00:00;;maria.fuchs@ibs-ol.de;Germany;Maria
+63;Raiffeisenstraße;14;26180;Rastede;;Stein;;1999-03-05 00:00:00;;patrick.stein@ibs-ol.de;Germany;Patrick
+64;Hundsmühler Straße;38;26203;Wardenburg;;Vogt;;1994-07-13 00:00:00;;carolin.vogt@ibs-ol.de;Germany;Carolin
+65;Oldenburger Straße;21;26215;Wiefelstede;;KÃ¼hn;;1969-10-21 00:00:00;;florian.kuehn@ibs-ol.de;Germany;Florian
+66;Hauptstraße;55;26188;Edewecht;;Pohl;;1991-12-18 00:00:00;;eva.pohl@ibs-ol.de;Germany;Eva
+67;Schildergasse;114;50667;Köln;;Arnold;;1985-01-01 00:00:00;;christopher.arnold@ibs-ol.de;Germany;Christopher
+68;Königsallee;28;40213;Düsseldorf;;Schwarz;;1989-05-27 00:00:00;;katharina.schwarz@ibs-ol.de;Germany;Katharina
+69;Bahnhofstraße;23;26121;Oldenburg;;Haas;;1960-08-16 00:00:00;;ralf.haas@ibs-ol.de;Germany;Ralf
+70;Markt;7;26123;Oldenburg;;Lorenz;;2004-09-04 00:00:00;;jessica.lorenz@ibs-ol.de;Germany;Jessica
+71;Lappan;4;26125;Oldenburg;;Winter;;1954-11-24 00:00:00;;robert.winter@ibs-ol.de;Germany;Robert
+72;Hopfenstraße;12;26127;Oldenburg;;Berg;;1971-07-20 00:00:00;;sandra.berg@ibs-ol.de;Germany;Sandra
+73;Friedlandstraße;39;26129;Oldenburg;;Seitz;;1978-03-01 00:00:00;;markus.seitz@ibs-ol.de;Germany;Markus
+74;Stautorstraße;8;26121;Oldenburg;;GÃ¶tz;;1993-04-07 00:00:00;;tanja.goetz@ibs-ol.de;Germany;Tanja
+75;Kleine Kirchstraße;2;26123;Oldenburg;;Lang;;1980-10-14 00:00:00;;dirk.lang@ibs-ol.de;Germany;Dirk
+76;Lindhooper Straße;17;26125;Oldenburg;;Witt;;1996-09-12 00:00:00;;antonia.witt@ibs-ol.de;Germany;Antonia
+77;Brüderstraße;5;26127;Oldenburg;;Schulze;;1977-01-28 00:00:00;;rene.schulze@ibs-ol.de;Germany;Rene
+78;Schützenweg;30;26129;Oldenburg;;Huber;;1997-12-31 00:00:00;;ines.huber@ibs-ol.de;Germany;Ines
+79;Zum Rosenteich;3;26160;Bad Zwischenahn;;Schmidt;;1972-11-04 00:00:00;;thomas.schmidt@ibs-ol.de;Germany;Thomas
+80;Feldbreite;19;26180;Rastede;;Voigt;;1981-05-22 00:00:00;;kathrin.voigt@ibs-ol.de;Germany;Kathrin
+81;Patenbergsweg;6;26203;Wardenburg;;Hahn;;1965-03-07 00:00:00;;michael.hahn@ibs-ol.de;Germany;Michael
+82;Bremerstraße;11;26215;Wiefelstede;;Ludwig;;1982-08-29 00:00:00;;sabine.ludwig@ibs-ol.de;Germany;Sabine
+83;Oldenburger Straße;42;26188;Edewecht;;Friedrich;;1983-07-15 00:00:00;;sebastian.friedrich@ibs-ol.de;Germany;Sebastian
+84;Königstraße;1b;70173;Stuttgart;;Neumann;;1999-10-03 00:00:00;;julia.neumann@ibs-ol.de;Germany;Julia
+85;Prager Straße;15;01067;Dresden;;Stein;;1951-02-10 00:00:00;;timo.stein@ibs-ol.de;Germany;Timo
+86;Heiligengeiststraße;10;26121;Oldenburg;;Hoffmann;;1992-12-06 00:00:00;;rebecca.hoffmann@ibs-ol.de;Germany;Rebecca
+87;Lange Straße;49;26123;Oldenburg;;Scholz;;1966-01-29 00:00:00;;juergen.scholz@ibs-ol.de;Germany;JÃ¼rgen
+88;Ammergaustraße;22;26125;Oldenburg;;Hartmann;;2001-02-14 00:00:00;;stefanie.hartmann@ibs-ol.de;Germany;Stefanie
+89;Alexanderstraße;65;26127;Oldenburg;;Meier;;1958-03-31 00:00:00;;tobias.meier@ibs-ol.de;Germany;Tobias
+90;Butjadinger Straße;14;26129;Oldenburg;;Schmidt;;1986-07-25 00:00:00;;andrea.schmidt@ibs-ol.de;Germany;Andrea
+91;Mozartstraße;7;26121;Oldenburg;;Jung;;1970-09-06 00:00:00;;manuel.jung@ibs-ol.de;Germany;Manuel
+92;Bachstraße;19;26123;Oldenburg;;Hoffmann;;2002-11-30 00:00:00;;isabel.hoffmann@ibs-ol.de;Germany;Isabel
+93;Beethovenstraße;31;26125;Oldenburg;;Keller;;1950-06-11 00:00:00;;christian.keller@ibs-ol.de;Germany;Christian
+94;Schubertstraße;8;26127;Oldenburg;;Weber;;1991-04-19 00:00:00;;veronika.weber@ibs-ol.de;Germany;Veronika
+95;Händelstraße;25;26129;Oldenburg;;Zimmermann;;1964-01-25 00:00:00;;andreas.zimmermann@ibs-ol.de;Germany;Andreas
+96;Gartenweg;12;26160;Bad Zwischenahn;;Becker;;1983-09-21 00:00:00;;sarah.becker@ibs-ol.de;Germany;Sarah
+97;Feldstraße;5;26180;Rastede;;Roth;;1973-12-13 00:00:00;;christopher.roth@ibs-ol.de;Germany;Christopher
+98;Brookdamm;17;26203;Wardenburg;;Koch;;1994-08-09 00:00:00;;katja.koch@ibs-ol.de;Germany;Katja
+99;Dohlenweg;9;26215;Wiefelstede;;Sauer;;1962-02-04 00:00:00;;frank.sauer@ibs-ol.de;Germany;Frank
+100;Industriestraße;28;26188;Edewecht;;Bach;;2000-06-15 00:00:00;;annalena.bach@ibs-ol.de;Germany;Anna-Lena
